@@ -1,3 +1,4 @@
+# https://stackoverflow.com/questions/47894387/how-to-correlate-an-ordinal-categorical-column-in-pandas
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -7,6 +8,8 @@ colss = [
     "Hair Style Name",
     "Normal Price (N$)",
     "Barber",
+    "Physical Height (m)",
+    "Body Mass (kg)",
     "Weather",
     "Environment Noise Level",
     "Head Shape",

@@ -22,13 +22,13 @@ a = [
 
 styles = {
     # price, styling time
-    "Panga": [80, 80, ["Long", "Medium"]],
-    "Bald": [50, 50, ["Short", "Medium"]],
-    "Baby cut": [60, 60, ["Short", "Medium"]],
-    "Trim": [20, 30, ["Long", "Medium", "Short"]],
+    "Panga": [80, 50, ["Long", "Medium"]],
+    "Bald": [50, 30, ["Short", "Medium", "Long"]],
+    "Baby cut": [60, 40, ["Short", "Medium", "Long"]],
+    "Trim": [20, 25, ["Long", "Medium", "Short"]],
     "Fade": [80, 44, ["Medium", "Short"]],
-    "Mohawk": [80, 52, ["Long"]],
-    "Afro": [70, 56, ["Long"]],
+    "Mohawk": [80, 52, ["Long", "Medium"]],
+    "Afro": [70, 43, ["Long"]],
 }
 barbers = ["Tom", "Ben", "Leo"]
 weather_list = ["Sunny", "Hot", "Cold", "Humid", "Windy", "Stormy", "Dry"]
@@ -181,7 +181,7 @@ with open("out.csv", "w", newline="") as f:
             random.seed(os.urandom(random.randint(5, 50)))
             mass = plus_minus(age_groups[age_key], 5)
             random.seed(os.urandom(random.randint(5, 50)))
-            height = random.choice(heights)
+            height = random.uniform(1.5, 1.9)
             data = [
                 style_key,
                 price,
