@@ -1,0 +1,1368 @@
+Hair Style Name,Normal Price (N$),Barber,Weather,Environment Noise Level,Head Shape,Customer Reaction,Discount Percent,Age Group,Pre Hair Length,Physical Height (m),Body Mass (kg),Date (DDMMYYYY),Client Skin Tone,Styling Time (minutes)
+Trim,20,Leo,Cold,Low,Pear,Serious,20,50-59,Medium,1.86,82,1/04/2020,Light,27
+Afro,70,Leo,Windy,Low,Square,Serious,20,60-69,Long,1.88,76,1/04/2020,Light,49
+Bald,50,Leo,Stormy,Loud,Round,Tired,20,5-19,Medium,1.9,33,1/04/2020,Dark,60
+Afro,70,Tom,Sunny,Moderate,Round,Tired,15,5-19,Long,1.9,31,1/04/2020,Light,56
+Fade,80,Leo,Sunny,Low,Triangular,Serious,0,40-49,Short,1.88,76,1/04/2020,Dark,38
+Mohawk,80,Tom,Hot,Low,Oval,Tired,20,60-69,Long,1.7,82,1/04/2020,Light,47
+Trim,20,Ben,Humid,Moderate,Pear,Happy,0,50-59,Long,1.65,82,1/04/2020,Light,20
+Trim,20,Leo,Dry,Loud,Round,Tired,20,5-19,Medium,1.6,29,1/04/2020,Light,25
+Mohawk,80,Ben,Sunny,Low,Square,Worried,0,60-69,Long,1.83,83,1/04/2020,Light,47
+Baby cut,60,Leo,Hot,Moderate,Square,Worried,15,60-69,Medium,1.72,81,1/04/2020,Light,64
+Fade,80,Ben,Hot,Loud,Heart,Happy,10,5-19,Medium,1.9,37,1/04/2020,Dark,43
+Trim,20,Ben,Windy,Loud,Square,Relaxed,15,20-29,Short,1.9,55,1/04/2020,Light,22
+Fade,80,Tom,Windy,Low,Heart,Relaxed,10,50-59,Medium,1.66,77,1/04/2020,Light,51
+Mohawk,80,Ben,Cold,Moderate,Square,Tired,20,20-29,Long,1.66,57,1/04/2020,Light,50
+Mohawk,80,Tom,Dry,Low,Round,Tired,10,40-49,Long,1.83,77,1/04/2020,Light,43
+Panga,80,Tom,Humid,Loud,Pear,Happy,10,5-19,Long,1.88,37,1/04/2020,Light,83
+Panga,80,Ben,Stormy,Moderate,Oval,Tired,0,50-59,Long,1.6,76,1/04/2020,Light,70
+Panga,80,Ben,Cold,Loud,Triangular,Tired,20,50-59,Medium,1.72,74,1/04/2020,Dark,87
+Trim,20,Leo,Hot,Moderate,Square,Happy,0,60-69,Short,1.66,80,1/04/2020,Dark,39
+Panga,80,Tom,Dry,Low,Triangular,Tired,20,20-29,Long,1.5,51,1/04/2020,Light,80
+Panga,80,Leo,Sunny,Loud,Pear,Happy,0,20-29,Long,1.72,50,2/04/2020,Dark,78
+Panga,80,Ben,Cold,Loud,Round,Tired,10,60-69,Medium,1.9,80,2/04/2020,Dark,86
+Trim,20,Tom,Hot,Moderate,Round,Serious,10,50-59,Long,1.6,79,2/04/2020,Dark,29
+Baby cut,60,Ben,Stormy,Low,Round,Hurried,15,40-49,Short,1.7,76,2/04/2020,Dark,52
+Baby cut,60,Tom,Stormy,Moderate,Square,Happy,20,40-49,Short,1.57,69,2/04/2020,Light,51
+Baby cut,60,Ben,Windy,Moderate,Triangular,Relaxed,20,60-69,Medium,1.55,80,2/04/2020,Light,53
+Afro,70,Leo,Stormy,Low,Oval,Hurried,15,20-29,Long,1.5,58,2/04/2020,Light,59
+Baby cut,60,Ben,Humid,Moderate,Pear,Worried,10,40-49,Short,1.7,73,2/04/2020,Dark,52
+Bald,50,Tom,Hot,Loud,Pear,Relaxed,15,30-39,Medium,1.6,72,2/04/2020,Dark,57
+Panga,80,Ben,Hot,Moderate,Heart,Relaxed,10,20-29,Long,1.88,59,2/04/2020,Light,84
+Bald,50,Ben,Dry,Low,Pear,Serious,0,5-19,Short,1.65,32,2/04/2020,Dark,58
+Trim,20,Tom,Stormy,Loud,Oval,Worried,10,50-59,Medium,1.9,75,2/04/2020,Dark,34
+Trim,20,Leo,Stormy,Low,Oval,Tired,20,20-29,Long,1.65,52,2/04/2020,Light,20
+Bald,50,Leo,Cold,Loud,Pear,Worried,20,60-69,Medium,1.5,82,2/04/2020,Light,44
+Afro,70,Leo,Sunny,Moderate,Oval,Relaxed,0,50-59,Long,1.65,80,2/04/2020,Light,54
+Mohawk,80,Tom,Sunny,Low,Round,Tired,0,40-49,Long,1.7,72,2/04/2020,Dark,62
+Panga,80,Leo,Humid,Low,Pear,Relaxed,15,60-69,Medium,1.57,77,3/04/2020,Dark,70
+Afro,70,Leo,Sunny,Loud,Oval,Worried,0,20-29,Long,1.72,53,3/04/2020,Light,59
+Baby cut,60,Tom,Stormy,Loud,Triangular,Relaxed,10,40-49,Short,1.65,72,3/04/2020,Light,61
+Bald,50,Tom,Cold,Moderate,Round,Relaxed,15,50-59,Medium,1.72,76,3/04/2020,Light,52
+Bald,50,Ben,Hot,Moderate,Pear,Tired,20,30-39,Medium,1.5,62,3/04/2020,Dark,55
+Baby cut,60,Ben,Hot,Moderate,Pear,Hurried,0,20-29,Medium,1.5,51,3/04/2020,Light,65
+Trim,20,Tom,Cold,Low,Oval,Happy,20,20-29,Long,1.57,51,3/04/2020,Dark,33
+Afro,70,Tom,Sunny,Low,Round,Tired,10,5-19,Long,1.83,36,3/04/2020,Light,62
+Bald,50,Ben,Hot,Moderate,Heart,Serious,10,30-39,Medium,1.83,67,3/04/2020,Light,60
+Afro,70,Leo,Humid,Moderate,Oval,Tired,0,50-59,Long,1.88,81,3/04/2020,Light,50
+Bald,50,Leo,Humid,Loud,Triangular,Hurried,20,5-19,Short,1.72,30,3/04/2020,Dark,44
+Mohawk,80,Tom,Sunny,Low,Heart,Happy,20,60-69,Long,1.86,78,3/04/2020,Light,58
+Mohawk,80,Tom,Windy,Loud,Heart,Worried,20,60-69,Long,1.88,75,3/04/2020,Light,44
+Mohawk,80,Leo,Cold,Low,Heart,Tired,10,5-19,Long,1.88,30,3/04/2020,Dark,62
+Afro,70,Ben,Cold,Loud,Square,Tired,0,5-19,Long,1.6,33,3/04/2020,Light,53
+Panga,80,Tom,Sunny,Low,Oval,Serious,15,30-39,Medium,1.86,63,3/04/2020,Light,76
+Mohawk,80,Tom,Cold,Moderate,Oval,Serious,15,60-69,Long,1.7,85,4/04/2020,Dark,59
+Trim,20,Ben,Humid,Low,Oval,Worried,15,40-49,Short,1.57,75,4/04/2020,Light,23
+Fade,80,Tom,Hot,Loud,Pear,Hurried,10,60-69,Medium,1.72,81,4/04/2020,Dark,36
+Bald,50,Tom,Sunny,Moderate,Square,Serious,15,50-59,Medium,1.7,77,4/04/2020,Dark,48
+Trim,20,Leo,Windy,Moderate,Oval,Worried,20,60-69,Short,1.5,80,4/04/2020,Light,37
+Baby cut,60,Leo,Cold,Low,Heart,Serious,10,60-69,Short,1.72,83,4/04/2020,Dark,59
+Afro,70,Tom,Cold,Moderate,Heart,Serious,20,40-49,Long,1.7,72,4/04/2020,Light,53
+Baby cut,60,Ben,Humid,Low,Square,Hurried,15,30-39,Medium,1.66,65,4/04/2020,Dark,63
+Baby cut,60,Ben,Hot,Loud,Pear,Relaxed,10,40-49,Short,1.6,76,4/04/2020,Light,63
+Mohawk,80,Leo,Sunny,Moderate,Square,Tired,0,30-39,Long,1.7,66,4/04/2020,Light,46
+Trim,20,Leo,Windy,Moderate,Oval,Tired,15,60-69,Short,1.65,85,4/04/2020,Dark,39
+Bald,50,Leo,Stormy,Low,Pear,Worried,15,40-49,Short,1.7,76,4/04/2020,Dark,45
+Baby cut,60,Ben,Hot,Loud,Triangular,Worried,10,5-19,Medium,1.57,36,4/04/2020,Light,56
+Baby cut,60,Tom,Humid,Moderate,Heart,Relaxed,20,40-49,Short,1.57,70,4/04/2020,Light,56
+Mohawk,80,Tom,Hot,Loud,Oval,Hurried,10,40-49,Long,1.9,73,5/04/2020,Light,60
+Fade,80,Ben,Hot,Low,Pear,Serious,20,50-59,Medium,1.86,81,5/04/2020,Light,41
+Afro,70,Ben,Dry,Loud,Pear,Serious,0,60-69,Long,1.9,80,5/04/2020,Light,48
+Afro,70,Leo,Dry,Low,Oval,Relaxed,10,40-49,Long,1.72,77,5/04/2020,Dark,58
+Fade,80,Ben,Humid,Low,Pear,Hurried,10,20-29,Medium,1.7,52,5/04/2020,Dark,40
+Baby cut,60,Tom,Cold,Loud,Square,Relaxed,15,50-59,Short,1.83,77,5/04/2020,Light,65
+Panga,80,Leo,Cold,Low,Pear,Worried,0,50-59,Medium,1.5,73,5/04/2020,Dark,78
+Bald,50,Leo,Sunny,Low,Triangular,Serious,15,50-59,Medium,1.65,77,5/04/2020,Light,58
+Panga,80,Tom,Sunny,Loud,Pear,Hurried,20,5-19,Medium,1.88,35,5/04/2020,Light,83
+Mohawk,80,Tom,Sunny,Moderate,Triangular,Hurried,10,40-49,Long,1.55,72,5/04/2020,Dark,57
+Baby cut,60,Ben,Dry,Loud,Heart,Serious,0,5-19,Short,1.88,35,5/04/2020,Dark,64
+Afro,70,Tom,Humid,Loud,Oval,Serious,10,5-19,Long,1.66,33,5/04/2020,Dark,58
+Fade,80,Tom,Stormy,Low,Square,Happy,15,50-59,Medium,1.72,78,5/04/2020,Dark,49
+Trim,20,Tom,Humid,Loud,Square,Relaxed,20,40-49,Long,1.5,69,5/04/2020,Dark,34
+Mohawk,80,Ben,Cold,Moderate,Square,Relaxed,15,40-49,Long,1.86,76,6/04/2020,Light,61
+Afro,70,Ben,Sunny,Low,Round,Relaxed,0,60-69,Long,1.57,82,6/04/2020,Dark,51
+Panga,80,Tom,Humid,Moderate,Heart,Serious,0,5-19,Medium,1.7,32,6/04/2020,Dark,70
+Baby cut,60,Tom,Sunny,Low,Heart,Hurried,10,60-69,Short,1.66,75,6/04/2020,Light,65
+Bald,50,Ben,Sunny,Moderate,Triangular,Worried,15,5-19,Medium,1.5,31,6/04/2020,Light,40
+Mohawk,80,Leo,Humid,Loud,Round,Relaxed,0,50-59,Long,1.5,76,6/04/2020,Light,60
+Fade,80,Leo,Humid,Moderate,Pear,Worried,15,30-39,Short,1.5,69,6/04/2020,Dark,46
+Baby cut,60,Leo,Dry,Loud,Heart,Worried,0,40-49,Medium,1.65,70,6/04/2020,Light,64
+Baby cut,60,Tom,Humid,Low,Heart,Tired,0,60-69,Short,1.66,83,6/04/2020,Light,64
+Mohawk,80,Ben,Windy,Moderate,Oval,Relaxed,10,50-59,Long,1.66,77,6/04/2020,Dark,50
+Afro,70,Leo,Windy,Moderate,Triangular,Happy,0,50-59,Long,1.5,76,6/04/2020,Dark,50
+Mohawk,80,Leo,Dry,Moderate,Oval,Happy,20,50-59,Long,1.72,81,6/04/2020,Light,55
+Panga,80,Leo,Dry,Loud,Heart,Hurried,20,5-19,Long,1.83,29,6/04/2020,Light,75
+Trim,20,Ben,Windy,Low,Heart,Hurried,0,30-39,Long,1.65,62,6/04/2020,Dark,36
+Mohawk,80,Leo,Stormy,Low,Triangular,Relaxed,20,40-49,Long,1.72,78,6/04/2020,Dark,62
+Afro,70,Leo,Hot,Moderate,Oval,Hurried,10,40-49,Long,1.88,77,6/04/2020,Dark,57
+Bald,50,Leo,Humid,Low,Pear,Relaxed,0,30-39,Medium,1.55,66,6/04/2020,Light,60
+Bald,50,Leo,Humid,Low,Heart,Relaxed,0,60-69,Short,1.7,76,6/04/2020,Light,43
+Mohawk,80,Ben,Dry,Loud,Round,Hurried,20,30-39,Long,1.5,71,7/04/2020,Light,53
+Panga,80,Tom,Stormy,Moderate,Oval,Tired,0,20-29,Long,1.9,53,7/04/2020,Light,81
+Panga,80,Ben,Hot,Loud,Oval,Hurried,15,20-29,Medium,1.65,59,7/04/2020,Light,85
+Trim,20,Tom,Humid,Loud,Oval,Hurried,20,5-19,Long,1.83,32,7/04/2020,Dark,21
+Panga,80,Tom,Hot,Moderate,Pear,Hurried,20,50-59,Long,1.9,76,7/04/2020,Light,71
+Trim,20,Leo,Dry,Low,Heart,Tired,0,30-39,Long,1.55,71,7/04/2020,Light,27
+Afro,70,Ben,Windy,Loud,Round,Relaxed,15,5-19,Long,1.7,37,7/04/2020,Light,54
+Fade,80,Ben,Dry,Moderate,Triangular,Tired,0,50-59,Short,1.55,75,7/04/2020,Light,44
+Trim,20,Tom,Hot,Low,Heart,Hurried,15,60-69,Medium,1.86,85,7/04/2020,Dark,38
+Trim,20,Leo,Dry,Loud,Triangular,Happy,15,5-19,Long,1.72,35,7/04/2020,Light,29
+Panga,80,Ben,Dry,Moderate,Oval,Hurried,10,20-29,Long,1.66,57,7/04/2020,Dark,75
+Trim,20,Tom,Cold,Loud,Square,Happy,0,30-39,Medium,1.86,66,7/04/2020,Dark,20
+Fade,80,Ben,Windy,Moderate,Triangular,Tired,15,30-39,Medium,1.72,64,7/04/2020,Dark,50
+Fade,80,Tom,Sunny,Loud,Square,Happy,0,50-59,Medium,1.66,75,7/04/2020,Light,40
+Afro,70,Ben,Hot,Loud,Pear,Relaxed,20,5-19,Long,1.6,34,7/04/2020,Light,57
+Bald,50,Leo,Humid,Loud,Heart,Happy,10,50-59,Medium,1.72,75,7/04/2020,Dark,56
+Trim,20,Leo,Dry,Moderate,Oval,Happy,15,20-29,Short,1.55,55,8/04/2020,Dark,26
+Mohawk,80,Tom,Sunny,Low,Round,Happy,20,20-29,Long,1.86,58,8/04/2020,Light,48
+Mohawk,80,Ben,Windy,Low,Pear,Happy,10,20-29,Long,1.66,51,8/04/2020,Dark,46
+Trim,20,Tom,Dry,Loud,Round,Tired,15,30-39,Long,1.57,64,8/04/2020,Light,27
+Baby cut,60,Ben,Stormy,Moderate,Pear,Tired,10,40-49,Short,1.83,68,8/04/2020,Light,65
+Panga,80,Tom,Sunny,Low,Oval,Happy,10,30-39,Long,1.7,66,8/04/2020,Light,80
+Trim,20,Ben,Humid,Loud,Triangular,Serious,10,5-19,Long,1.72,38,8/04/2020,Light,34
+Mohawk,80,Ben,Dry,Moderate,Oval,Relaxed,15,5-19,Long,1.72,31,8/04/2020,Dark,57
+Baby cut,60,Tom,Windy,Loud,Oval,Worried,20,5-19,Medium,1.72,38,8/04/2020,Light,57
+Baby cut,60,Tom,Sunny,Loud,Heart,Tired,10,30-39,Medium,1.83,64,8/04/2020,Dark,63
+Fade,80,Ben,Dry,Loud,Heart,Happy,0,40-49,Short,1.83,72,8/04/2020,Light,36
+Fade,80,Leo,Humid,Moderate,Triangular,Happy,15,50-59,Medium,1.55,80,8/04/2020,Light,51
+Mohawk,80,Ben,Stormy,Moderate,Square,Serious,10,5-19,Long,1.88,34,8/04/2020,Light,57
+Mohawk,80,Tom,Dry,Loud,Round,Happy,10,40-49,Long,1.72,73,8/04/2020,Light,48
+Trim,20,Leo,Dry,Low,Round,Relaxed,15,30-39,Long,1.83,67,8/04/2020,Dark,37
+Fade,80,Tom,Stormy,Low,Oval,Relaxed,20,30-39,Short,1.5,65,9/04/2020,Light,36
+Bald,50,Leo,Humid,Loud,Square,Hurried,0,5-19,Medium,1.7,35,9/04/2020,Dark,49
+Mohawk,80,Ben,Hot,Loud,Pear,Hurried,0,30-39,Long,1.7,67,9/04/2020,Light,44
+Bald,50,Ben,Sunny,Loud,Round,Happy,0,5-19,Short,1.65,38,9/04/2020,Dark,48
+Panga,80,Leo,Cold,Moderate,Round,Hurried,10,5-19,Long,1.6,30,9/04/2020,Light,81
+Afro,70,Leo,Hot,Moderate,Oval,Happy,20,20-29,Long,1.88,59,9/04/2020,Dark,58
+Bald,50,Leo,Hot,Low,Pear,Relaxed,0,60-69,Medium,1.6,79,9/04/2020,Light,41
+Fade,80,Leo,Hot,Low,Square,Happy,10,50-59,Short,1.65,82,9/04/2020,Light,40
+Trim,20,Tom,Cold,Loud,Square,Worried,20,20-29,Short,1.7,52,9/04/2020,Dark,24
+Mohawk,80,Tom,Sunny,Low,Pear,Tired,10,50-59,Long,1.5,79,9/04/2020,Dark,48
+Baby cut,60,Tom,Cold,Low,Round,Tired,20,50-59,Medium,1.6,81,9/04/2020,Dark,59
+Panga,80,Ben,Cold,Loud,Triangular,Tired,10,40-49,Medium,1.7,75,9/04/2020,Light,86
+Panga,80,Tom,Dry,Loud,Oval,Tired,15,50-59,Long,1.55,78,9/04/2020,Dark,74
+Bald,50,Tom,Stormy,Moderate,Square,Hurried,15,20-29,Medium,1.83,57,9/04/2020,Dark,54
+Bald,50,Ben,Windy,Low,Heart,Worried,10,30-39,Medium,1.66,67,9/04/2020,Light,53
+Panga,80,Tom,Windy,Moderate,Triangular,Hurried,0,20-29,Medium,1.65,52,9/04/2020,Dark,72
+Trim,20,Tom,Stormy,Loud,Round,Worried,0,5-19,Short,1.72,37,9/04/2020,Light,28
+Panga,80,Leo,Stormy,Low,Heart,Relaxed,20,40-49,Medium,1.55,77,9/04/2020,Light,79
+Baby cut,60,Tom,Cold,Loud,Oval,Serious,0,5-19,Medium,1.7,33,9/04/2020,Dark,50
+Mohawk,80,Ben,Stormy,Loud,Oval,Relaxed,10,5-19,Long,1.6,31,9/04/2020,Light,60
+Mohawk,80,Ben,Humid,Low,Oval,Tired,15,60-69,Long,1.55,78,10/04/2020,Light,49
+Fade,80,Tom,Cold,Loud,Oval,Tired,15,60-69,Short,1.83,84,10/04/2020,Light,42
+Afro,70,Leo,Stormy,Moderate,Heart,Tired,15,50-59,Long,1.6,83,10/04/2020,Dark,61
+Trim,20,Tom,Stormy,Moderate,Oval,Relaxed,15,50-59,Medium,1.66,80,10/04/2020,Dark,31
+Trim,20,Tom,Humid,Low,Triangular,Hurried,15,20-29,Medium,1.57,59,10/04/2020,Dark,23
+Afro,70,Tom,Hot,Low,Pear,Tired,15,20-29,Long,1.66,55,10/04/2020,Dark,54
+Trim,20,Tom,Stormy,Low,Square,Hurried,10,40-49,Long,1.57,75,10/04/2020,Light,28
+Trim,20,Tom,Cold,Loud,Round,Relaxed,20,30-39,Short,1.57,66,10/04/2020,Dark,39
+Fade,80,Ben,Sunny,Low,Triangular,Happy,20,60-69,Short,1.7,85,10/04/2020,Light,36
+Trim,20,Ben,Windy,Low,Square,Happy,20,5-19,Short,1.83,38,10/04/2020,Dark,38
+Panga,80,Ben,Windy,Moderate,Heart,Happy,0,5-19,Medium,1.88,37,10/04/2020,Light,73
+Mohawk,80,Tom,Humid,Moderate,Pear,Serious,0,40-49,Long,1.7,73,10/04/2020,Light,62
+Baby cut,60,Tom,Dry,Loud,Triangular,Worried,15,50-59,Short,1.66,73,11/04/2020,Dark,64
+Afro,70,Tom,Windy,Moderate,Oval,Serious,0,50-59,Long,1.66,76,11/04/2020,Light,61
+Baby cut,60,Leo,Hot,Loud,Heart,Happy,10,60-69,Short,1.88,76,11/04/2020,Dark,64
+Panga,80,Tom,Stormy,Moderate,Triangular,Tired,10,40-49,Long,1.65,72,11/04/2020,Dark,70
+Baby cut,60,Leo,Cold,Moderate,Round,Worried,15,5-19,Medium,1.9,32,11/04/2020,Light,56
+Panga,80,Leo,Dry,Low,Round,Happy,20,60-69,Medium,1.57,83,11/04/2020,Dark,81
+Baby cut,60,Tom,Stormy,Low,Square,Relaxed,20,60-69,Short,1.86,80,11/04/2020,Light,57
+Afro,70,Tom,Humid,Loud,Oval,Worried,20,5-19,Long,1.66,30,11/04/2020,Dark,49
+Fade,80,Leo,Cold,Loud,Square,Serious,20,40-49,Short,1.6,76,11/04/2020,Dark,45
+Fade,80,Tom,Stormy,Moderate,Round,Serious,0,20-29,Short,1.6,55,11/04/2020,Light,49
+Panga,80,Ben,Hot,Moderate,Oval,Relaxed,0,30-39,Medium,1.57,69,11/04/2020,Light,76
+Afro,70,Leo,Sunny,Moderate,Pear,Serious,15,5-19,Long,1.7,37,11/04/2020,Dark,54
+Afro,70,Tom,Cold,Moderate,Triangular,Relaxed,0,50-59,Long,1.65,81,11/04/2020,Light,56
+Panga,80,Ben,Hot,Loud,Round,Serious,0,5-19,Medium,1.7,32,11/04/2020,Light,70
+Fade,80,Leo,Sunny,Moderate,Square,Hurried,15,50-59,Short,1.57,73,11/04/2020,Dark,36
+Mohawk,80,Tom,Cold,Low,Square,Relaxed,0,50-59,Long,1.65,77,11/04/2020,Light,53
+Fade,80,Ben,Dry,Moderate,Pear,Relaxed,10,30-39,Medium,1.88,63,11/04/2020,Dark,34
+Baby cut,60,Leo,Humid,Low,Pear,Relaxed,15,50-59,Short,1.65,75,11/04/2020,Dark,65
+Panga,80,Tom,Stormy,Loud,Pear,Happy,20,20-29,Medium,1.7,56,11/04/2020,Light,89
+Panga,80,Leo,Hot,Moderate,Oval,Serious,0,60-69,Long,1.65,79,11/04/2020,Dark,88
+Afro,70,Leo,Stormy,Moderate,Round,Worried,10,5-19,Long,1.83,38,12/04/2020,Light,65
+Fade,80,Ben,Cold,Loud,Heart,Tired,10,60-69,Short,1.5,76,12/04/2020,Dark,47
+Trim,20,Ben,Sunny,Moderate,Square,Happy,0,5-19,Long,1.66,38,12/04/2020,Dark,21
+Mohawk,80,Tom,Humid,Moderate,Round,Hurried,15,50-59,Long,1.72,75,12/04/2020,Dark,44
+Fade,80,Tom,Stormy,Low,Round,Serious,20,30-39,Medium,1.6,65,12/04/2020,Light,50
+Trim,20,Leo,Windy,Moderate,Oval,Tired,0,5-19,Medium,1.55,32,12/04/2020,Dark,21
+Fade,80,Ben,Dry,Moderate,Pear,Serious,0,20-29,Medium,1.7,56,12/04/2020,Dark,50
+Trim,20,Ben,Sunny,Moderate,Square,Relaxed,15,30-39,Long,1.55,67,12/04/2020,Light,38
+Afro,70,Ben,Cold,Loud,Square,Tired,20,60-69,Long,1.55,77,12/04/2020,Light,66
+Fade,80,Tom,Sunny,Moderate,Round,Relaxed,10,30-39,Short,1.9,72,12/04/2020,Light,42
+Bald,50,Tom,Humid,Low,Triangular,Relaxed,20,60-69,Short,1.7,83,12/04/2020,Dark,56
+Bald,50,Tom,Humid,Loud,Triangular,Happy,15,40-49,Medium,1.9,76,13/04/2020,Dark,51
+Panga,80,Ben,Cold,Moderate,Heart,Worried,20,60-69,Medium,1.86,77,13/04/2020,Dark,81
+Bald,50,Tom,Cold,Loud,Square,Worried,20,20-29,Short,1.72,52,13/04/2020,Dark,55
+Afro,70,Ben,Sunny,Loud,Square,Relaxed,15,40-49,Long,1.7,77,13/04/2020,Light,56
+Bald,50,Ben,Stormy,Moderate,Oval,Serious,10,50-59,Short,1.65,77,13/04/2020,Dark,44
+Panga,80,Leo,Sunny,Low,Round,Relaxed,20,60-69,Long,1.66,85,13/04/2020,Light,73
+Baby cut,60,Tom,Hot,Moderate,Pear,Tired,0,50-59,Medium,1.9,73,13/04/2020,Dark,68
+Baby cut,60,Ben,Humid,Moderate,Round,Worried,10,60-69,Short,1.83,81,13/04/2020,Dark,50
+Fade,80,Ben,Humid,Loud,Heart,Tired,15,50-59,Medium,1.86,76,13/04/2020,Light,45
+Baby cut,60,Leo,Dry,Moderate,Round,Relaxed,10,40-49,Medium,1.72,73,13/04/2020,Light,59
+Fade,80,Tom,Sunny,Moderate,Triangular,Happy,20,5-19,Medium,1.57,35,13/04/2020,Dark,43
+Fade,80,Tom,Windy,Moderate,Oval,Happy,0,30-39,Short,1.57,65,13/04/2020,Light,44
+Afro,70,Leo,Dry,Loud,Round,Happy,15,50-59,Long,1.86,74,13/04/2020,Dark,53
+Panga,80,Ben,Dry,Loud,Oval,Serious,20,50-59,Long,1.83,82,13/04/2020,Light,90
+Mohawk,80,Tom,Cold,Low,Pear,Serious,20,20-29,Long,1.83,53,13/04/2020,Dark,45
+Mohawk,80,Ben,Sunny,Moderate,Round,Happy,20,5-19,Long,1.6,32,13/04/2020,Dark,54
+Fade,80,Ben,Hot,Moderate,Heart,Happy,10,20-29,Short,1.6,55,13/04/2020,Light,49
+Bald,50,Ben,Dry,Low,Pear,Tired,10,40-49,Medium,1.6,71,14/04/2020,Light,40
+Afro,70,Ben,Dry,Loud,Triangular,Serious,20,20-29,Long,1.83,54,14/04/2020,Dark,62
+Mohawk,80,Leo,Hot,Moderate,Heart,Relaxed,20,20-29,Long,1.5,55,14/04/2020,Dark,52
+Afro,70,Ben,Sunny,Loud,Oval,Worried,15,50-59,Long,1.66,81,14/04/2020,Dark,56
+Fade,80,Ben,Sunny,Moderate,Square,Serious,10,20-29,Short,1.88,51,14/04/2020,Light,41
+Trim,20,Tom,Windy,Low,Triangular,Serious,20,20-29,Short,1.57,56,14/04/2020,Light,25
+Afro,70,Ben,Humid,Loud,Triangular,Hurried,20,60-69,Long,1.86,81,14/04/2020,Light,51
+Mohawk,80,Leo,Sunny,Low,Triangular,Hurried,20,40-49,Long,1.86,69,14/04/2020,Dark,46
+Bald,50,Ben,Stormy,Moderate,Oval,Relaxed,10,50-59,Short,1.7,80,14/04/2020,Dark,42
+Mohawk,80,Tom,Cold,Low,Round,Serious,15,5-19,Long,1.57,38,14/04/2020,Dark,55
+Afro,70,Leo,Cold,Low,Square,Hurried,15,30-39,Long,1.72,68,15/04/2020,Dark,65
+Trim,20,Leo,Humid,Moderate,Heart,Worried,10,50-59,Medium,1.66,75,15/04/2020,Light,25
+Afro,70,Leo,Sunny,Low,Heart,Serious,0,5-19,Long,1.88,36,15/04/2020,Light,62
+Panga,80,Leo,Cold,Low,Heart,Worried,10,30-39,Medium,1.57,72,15/04/2020,Dark,85
+Afro,70,Tom,Hot,Loud,Oval,Relaxed,10,60-69,Long,1.72,80,15/04/2020,Dark,48
+Fade,80,Tom,Dry,Moderate,Square,Worried,0,30-39,Short,1.83,68,15/04/2020,Dark,48
+Afro,70,Tom,Cold,Moderate,Round,Worried,0,40-49,Long,1.72,76,15/04/2020,Dark,51
+Baby cut,60,Tom,Windy,Loud,Oval,Worried,15,50-59,Medium,1.57,75,15/04/2020,Dark,61
+Trim,20,Tom,Windy,Low,Pear,Relaxed,20,40-49,Long,1.9,73,15/04/2020,Dark,32
+Trim,20,Leo,Windy,Low,Pear,Serious,0,40-49,Short,1.57,71,15/04/2020,Light,39
+Panga,80,Tom,Sunny,Moderate,Pear,Tired,15,20-29,Medium,1.6,57,15/04/2020,Light,78
+Afro,70,Ben,Humid,Loud,Round,Hurried,20,20-29,Long,1.6,54,15/04/2020,Light,66
+Panga,80,Tom,Stormy,Moderate,Heart,Happy,0,50-59,Long,1.55,76,16/04/2020,Dark,82
+Trim,20,Leo,Windy,Loud,Triangular,Tired,20,5-19,Medium,1.55,39,16/04/2020,Light,38
+Fade,80,Tom,Windy,Moderate,Oval,Worried,0,50-59,Medium,1.57,75,16/04/2020,Dark,47
+Fade,80,Leo,Cold,Low,Square,Relaxed,10,60-69,Medium,1.66,84,16/04/2020,Light,54
+Mohawk,80,Tom,Windy,Loud,Triangular,Tired,20,5-19,Long,1.72,33,16/04/2020,Light,48
+Fade,80,Ben,Cold,Loud,Square,Tired,15,20-29,Medium,1.66,59,16/04/2020,Dark,47
+Fade,80,Ben,Humid,Loud,Pear,Relaxed,10,40-49,Short,1.65,75,16/04/2020,Dark,38
+Trim,20,Ben,Humid,Moderate,Round,Happy,15,40-49,Long,1.55,69,16/04/2020,Dark,39
+Mohawk,80,Tom,Cold,Moderate,Heart,Serious,0,40-49,Long,1.5,73,16/04/2020,Dark,60
+Bald,50,Tom,Cold,Low,Heart,Worried,0,60-69,Short,1.72,79,16/04/2020,Dark,47
+Trim,20,Leo,Sunny,Moderate,Square,Relaxed,10,50-59,Short,1.7,80,16/04/2020,Light,37
+Afro,70,Ben,Cold,Loud,Oval,Worried,0,20-29,Long,1.5,59,16/04/2020,Dark,59
+Afro,70,Leo,Windy,Moderate,Heart,Tired,10,30-39,Long,1.65,65,16/04/2020,Dark,53
+Fade,80,Tom,Humid,Loud,Heart,Tired,20,30-39,Medium,1.6,72,16/04/2020,Light,43
+Afro,70,Ben,Hot,Low,Pear,Worried,0,5-19,Long,1.7,39,17/04/2020,Dark,54
+Mohawk,80,Tom,Cold,Moderate,Heart,Worried,15,20-29,Long,1.57,56,17/04/2020,Light,54
+Baby cut,60,Tom,Stormy,Low,Round,Tired,0,30-39,Medium,1.7,70,17/04/2020,Dark,56
+Afro,70,Ben,Windy,Low,Heart,Relaxed,15,50-59,Long,1.88,81,17/04/2020,Dark,55
+Panga,80,Leo,Cold,Low,Triangular,Worried,10,20-29,Medium,1.72,56,17/04/2020,Light,74
+Afro,70,Leo,Cold,Loud,Oval,Worried,10,20-29,Long,1.55,60,17/04/2020,Dark,57
+Baby cut,60,Ben,Stormy,Moderate,Triangular,Happy,20,50-59,Short,1.57,80,17/04/2020,Dark,55
+Trim,20,Ben,Cold,Low,Triangular,Serious,10,20-29,Medium,1.72,57,17/04/2020,Dark,26
+Fade,80,Ben,Stormy,Loud,Oval,Worried,0,60-69,Medium,1.65,75,17/04/2020,Light,43
+Baby cut,60,Ben,Dry,Loud,Oval,Serious,10,50-59,Medium,1.86,73,17/04/2020,Dark,59
+Bald,50,Tom,Hot,Low,Square,Hurried,15,5-19,Medium,1.6,30,18/04/2020,Dark,50
+Trim,20,Ben,Windy,Low,Heart,Worried,20,50-59,Long,1.86,73,18/04/2020,Dark,31
+Trim,20,Leo,Humid,Moderate,Heart,Serious,0,40-49,Long,1.86,69,18/04/2020,Dark,33
+Bald,50,Leo,Windy,Low,Round,Hurried,0,20-29,Short,1.5,52,18/04/2020,Dark,53
+Trim,20,Leo,Dry,Moderate,Heart,Tired,0,20-29,Long,1.65,56,18/04/2020,Light,31
+Baby cut,60,Leo,Hot,Low,Round,Worried,20,30-39,Short,1.5,62,18/04/2020,Dark,55
+Baby cut,60,Leo,Windy,Low,Pear,Serious,20,30-39,Short,1.86,63,18/04/2020,Light,61
+Baby cut,60,Ben,Windy,Moderate,Round,Hurried,10,20-29,Medium,1.5,57,18/04/2020,Light,57
+Panga,80,Ben,Hot,Moderate,Round,Relaxed,10,60-69,Long,1.88,83,18/04/2020,Light,88
+Afro,70,Ben,Stormy,Moderate,Square,Tired,20,5-19,Long,1.6,31,18/04/2020,Light,55
+Mohawk,80,Leo,Sunny,Moderate,Round,Relaxed,15,50-59,Long,1.57,83,18/04/2020,Light,45
+Trim,20,Ben,Hot,Low,Square,Happy,10,40-49,Long,1.88,68,18/04/2020,Light,34
+Bald,50,Ben,Windy,Loud,Triangular,Hurried,10,40-49,Short,1.83,75,19/04/2020,Light,40
+Panga,80,Ben,Hot,Moderate,Oval,Hurried,0,60-69,Long,1.86,81,19/04/2020,Light,73
+Afro,70,Ben,Dry,Moderate,Oval,Worried,15,40-49,Long,1.6,76,19/04/2020,Dark,46
+Trim,20,Leo,Dry,Loud,Triangular,Happy,15,5-19,Short,1.7,35,19/04/2020,Light,32
+Mohawk,80,Leo,Sunny,Loud,Round,Hurried,10,30-39,Long,1.5,65,19/04/2020,Light,61
+Panga,80,Ben,Sunny,Loud,Heart,Serious,0,5-19,Medium,1.9,37,19/04/2020,Dark,84
+Bald,50,Leo,Sunny,Loud,Round,Happy,15,50-59,Short,1.65,76,19/04/2020,Light,54
+Mohawk,80,Tom,Sunny,Moderate,Triangular,Hurried,15,30-39,Long,1.83,70,19/04/2020,Light,56
+Fade,80,Tom,Windy,Loud,Round,Relaxed,10,30-39,Short,1.7,71,19/04/2020,Light,54
+Afro,70,Tom,Cold,Moderate,Oval,Relaxed,15,60-69,Long,1.55,76,19/04/2020,Light,56
+Panga,80,Leo,Cold,Low,Oval,Worried,0,40-49,Medium,1.83,71,19/04/2020,Dark,79
+Trim,20,Leo,Dry,Loud,Pear,Hurried,10,60-69,Short,1.9,81,19/04/2020,Light,35
+Mohawk,80,Tom,Hot,Loud,Square,Tired,0,40-49,Long,1.66,74,20/04/2020,Dark,54
+Fade,80,Tom,Humid,Low,Triangular,Tired,0,60-69,Medium,1.66,81,20/04/2020,Light,48
+Baby cut,60,Tom,Sunny,Loud,Round,Tired,20,5-19,Short,1.86,33,20/04/2020,Dark,66
+Baby cut,60,Ben,Hot,Loud,Heart,Serious,0,40-49,Short,1.7,76,20/04/2020,Dark,58
+Baby cut,60,Ben,Hot,Low,Oval,Worried,20,40-49,Medium,1.6,75,20/04/2020,Light,55
+Trim,20,Ben,Cold,Low,Heart,Worried,20,40-49,Long,1.72,73,20/04/2020,Dark,30
+Bald,50,Ben,Cold,Loud,Pear,Relaxed,10,20-29,Medium,1.88,54,20/04/2020,Dark,41
+Trim,20,Ben,Cold,Low,Round,Tired,20,50-59,Long,1.83,80,20/04/2020,Dark,31
+Baby cut,60,Ben,Dry,Loud,Pear,Happy,10,40-49,Medium,1.86,68,20/04/2020,Dark,64
+Mohawk,80,Ben,Hot,Low,Pear,Happy,20,50-59,Long,1.88,76,20/04/2020,Dark,48
+Trim,20,Ben,Cold,Moderate,Heart,Hurried,10,30-39,Medium,1.9,69,20/04/2020,Dark,23
+Fade,80,Tom,Sunny,Low,Triangular,Tired,15,50-59,Short,1.66,75,20/04/2020,Light,43
+Bald,50,Ben,Humid,Loud,Round,Hurried,10,60-69,Short,1.55,78,20/04/2020,Dark,44
+Bald,50,Leo,Windy,Low,Square,Happy,15,50-59,Short,1.86,73,20/04/2020,Dark,41
+Panga,80,Leo,Cold,Low,Square,Happy,20,40-49,Long,1.6,72,20/04/2020,Light,82
+Panga,80,Leo,Cold,Low,Triangular,Hurried,20,20-29,Long,1.55,56,20/04/2020,Dark,86
+Trim,20,Leo,Stormy,Moderate,Round,Worried,20,20-29,Short,1.83,54,20/04/2020,Light,28
+Baby cut,60,Ben,Hot,Loud,Square,Worried,20,20-29,Medium,1.57,58,20/04/2020,Light,70
+Panga,80,Ben,Sunny,Low,Oval,Hurried,0,40-49,Medium,1.66,68,21/04/2020,Dark,79
+Panga,80,Leo,Cold,Loud,Heart,Happy,10,50-59,Medium,1.55,74,21/04/2020,Light,81
+Baby cut,60,Leo,Stormy,Low,Pear,Happy,0,60-69,Medium,1.88,82,21/04/2020,Light,50
+Panga,80,Leo,Sunny,Loud,Heart,Hurried,0,20-29,Long,1.5,59,21/04/2020,Dark,88
+Fade,80,Tom,Humid,Moderate,Pear,Serious,20,30-39,Medium,1.6,64,21/04/2020,Light,51
+Afro,70,Leo,Dry,Moderate,Square,Relaxed,10,5-19,Long,1.9,38,21/04/2020,Light,66
+Trim,20,Ben,Humid,Loud,Square,Tired,20,30-39,Long,1.9,70,21/04/2020,Dark,31
+Afro,70,Tom,Humid,Loud,Triangular,Happy,15,60-69,Long,1.5,84,21/04/2020,Dark,62
+Baby cut,60,Tom,Hot,Low,Pear,Worried,20,5-19,Short,1.88,37,21/04/2020,Dark,63
+Baby cut,60,Leo,Sunny,Loud,Square,Relaxed,15,5-19,Short,1.6,33,21/04/2020,Dark,56
+Afro,70,Tom,Windy,Low,Oval,Worried,15,60-69,Long,1.5,78,21/04/2020,Light,52
+Fade,80,Ben,Sunny,Moderate,Triangular,Worried,15,60-69,Medium,1.65,83,21/04/2020,Light,42
+Baby cut,60,Ben,Cold,Low,Triangular,Hurried,20,60-69,Short,1.6,78,22/04/2020,Dark,56
+Baby cut,60,Tom,Dry,Loud,Pear,Relaxed,10,50-59,Short,1.5,76,22/04/2020,Dark,67
+Panga,80,Ben,Hot,Moderate,Round,Serious,10,30-39,Medium,1.9,72,22/04/2020,Dark,85
+Afro,70,Tom,Dry,Moderate,Square,Happy,15,50-59,Long,1.6,81,22/04/2020,Light,47
+Bald,50,Ben,Sunny,Moderate,Heart,Happy,20,40-49,Short,1.5,70,22/04/2020,Light,52
+Bald,50,Leo,Sunny,Low,Pear,Hurried,15,30-39,Medium,1.7,64,22/04/2020,Dark,40
+Baby cut,60,Ben,Windy,Moderate,Heart,Serious,0,5-19,Medium,1.86,36,22/04/2020,Light,58
+Baby cut,60,Ben,Sunny,Moderate,Oval,Serious,15,5-19,Medium,1.57,33,22/04/2020,Light,58
+Fade,80,Tom,Stormy,Low,Triangular,Happy,0,60-69,Short,1.65,82,22/04/2020,Light,52
+Baby cut,60,Leo,Hot,Moderate,Oval,Hurried,0,50-59,Short,1.55,80,22/04/2020,Light,54
+Bald,50,Ben,Windy,Loud,Triangular,Tired,15,50-59,Short,1.6,80,22/04/2020,Dark,56
+Afro,70,Ben,Stormy,Loud,Triangular,Hurried,15,20-29,Long,1.6,56,22/04/2020,Light,53
+Afro,70,Ben,Sunny,Loud,Pear,Serious,20,50-59,Long,1.9,76,23/04/2020,Dark,57
+Afro,70,Tom,Hot,Low,Square,Happy,20,5-19,Long,1.86,36,23/04/2020,Light,64
+Mohawk,80,Ben,Windy,Moderate,Heart,Relaxed,15,5-19,Long,1.7,29,23/04/2020,Light,60
+Bald,50,Leo,Stormy,Loud,Pear,Worried,20,30-39,Medium,1.66,67,23/04/2020,Dark,42
+Mohawk,80,Leo,Humid,Moderate,Oval,Tired,10,40-49,Long,1.72,72,23/04/2020,Dark,44
+Trim,20,Leo,Dry,Low,Round,Tired,20,20-29,Medium,1.7,54,23/04/2020,Dark,37
+Trim,20,Ben,Stormy,Moderate,Oval,Happy,0,40-49,Medium,1.65,74,23/04/2020,Dark,20
+Trim,20,Ben,Sunny,Loud,Heart,Worried,0,20-29,Long,1.5,50,23/04/2020,Light,30
+Afro,70,Ben,Stormy,Low,Square,Relaxed,15,40-49,Long,1.55,78,23/04/2020,Dark,63
+Fade,80,Ben,Dry,Low,Oval,Tired,15,20-29,Short,1.65,60,23/04/2020,Dark,49
+Trim,20,Tom,Humid,Loud,Round,Worried,20,20-29,Medium,1.88,58,23/04/2020,Light,34
+Panga,80,Leo,Cold,Loud,Square,Worried,15,30-39,Medium,1.55,68,23/04/2020,Light,84
+Fade,80,Ben,Stormy,Low,Oval,Worried,15,20-29,Short,1.7,51,23/04/2020,Light,41
+Trim,20,Leo,Windy,Loud,Round,Hurried,0,5-19,Long,1.5,29,23/04/2020,Dark,27
+Panga,80,Leo,Hot,Loud,Square,Happy,10,50-59,Long,1.83,82,23/04/2020,Dark,70
+Trim,20,Ben,Windy,Loud,Pear,Happy,15,40-49,Long,1.57,75,23/04/2020,Dark,25
+Panga,80,Tom,Stormy,Low,Square,Hurried,0,30-39,Long,1.5,64,23/04/2020,Light,72
+Trim,20,Leo,Cold,Moderate,Oval,Worried,15,40-49,Long,1.72,74,23/04/2020,Light,36
+Afro,70,Ben,Dry,Moderate,Triangular,Tired,15,30-39,Long,1.65,62,23/04/2020,Light,65
+Afro,70,Leo,Humid,Loud,Round,Relaxed,15,5-19,Long,1.66,39,23/04/2020,Dark,60
+Trim,20,Leo,Sunny,Moderate,Round,Happy,20,40-49,Medium,1.57,70,24/04/2020,Light,40
+Trim,20,Ben,Sunny,Loud,Heart,Hurried,10,30-39,Short,1.57,68,24/04/2020,Light,33
+Bald,50,Tom,Dry,Loud,Oval,Worried,10,20-29,Medium,1.7,55,24/04/2020,Light,56
+Bald,50,Tom,Cold,Loud,Triangular,Relaxed,15,20-29,Short,1.6,57,24/04/2020,Dark,50
+Fade,80,Tom,Dry,Moderate,Round,Serious,20,5-19,Medium,1.83,34,24/04/2020,Dark,37
+Trim,20,Leo,Windy,Loud,Oval,Serious,10,60-69,Short,1.86,79,24/04/2020,Dark,32
+Fade,80,Leo,Humid,Low,Triangular,Worried,10,60-69,Medium,1.55,83,24/04/2020,Light,39
+Bald,50,Ben,Stormy,Moderate,Oval,Worried,0,30-39,Short,1.88,71,24/04/2020,Light,41
+Baby cut,60,Leo,Dry,Moderate,Square,Hurried,10,50-59,Medium,1.66,76,24/04/2020,Dark,53
+Afro,70,Ben,Stormy,Low,Square,Happy,0,5-19,Long,1.66,36,24/04/2020,Dark,61
+Baby cut,60,Tom,Stormy,Moderate,Round,Worried,15,5-19,Medium,1.83,31,24/04/2020,Light,64
+Trim,20,Ben,Humid,Moderate,Oval,Hurried,20,20-29,Long,1.65,58,24/04/2020,Light,39
+Afro,70,Leo,Stormy,Loud,Oval,Happy,20,40-49,Long,1.6,78,24/04/2020,Dark,62
+Fade,80,Tom,Stormy,Low,Heart,Worried,15,60-69,Short,1.55,78,24/04/2020,Light,37
+Mohawk,80,Ben,Cold,Moderate,Round,Hurried,10,20-29,Long,1.86,55,25/04/2020,Dark,52
+Afro,70,Ben,Humid,Loud,Round,Tired,0,60-69,Long,1.66,76,25/04/2020,Light,57
+Mohawk,80,Leo,Dry,Moderate,Square,Relaxed,15,30-39,Long,1.6,72,25/04/2020,Dark,54
+Mohawk,80,Ben,Humid,Moderate,Triangular,Happy,20,40-49,Long,1.57,74,25/04/2020,Dark,59
+Mohawk,80,Ben,Windy,Moderate,Triangular,Worried,15,50-59,Long,1.9,75,25/04/2020,Light,53
+Trim,20,Tom,Windy,Loud,Round,Worried,15,50-59,Medium,1.88,81,25/04/2020,Light,32
+Trim,20,Leo,Stormy,Low,Oval,Tired,15,30-39,Long,1.72,67,25/04/2020,Light,40
+Fade,80,Leo,Cold,Loud,Oval,Tired,10,50-59,Medium,1.66,81,25/04/2020,Dark,49
+Panga,80,Leo,Humid,Moderate,Triangular,Happy,10,30-39,Long,1.55,71,25/04/2020,Dark,87
+Trim,20,Tom,Cold,Loud,Square,Relaxed,20,5-19,Medium,1.86,33,25/04/2020,Dark,40
+Afro,70,Tom,Dry,Loud,Heart,Serious,0,30-39,Long,1.83,66,25/04/2020,Light,52
+Bald,50,Tom,Dry,Moderate,Heart,Happy,15,5-19,Medium,1.86,29,25/04/2020,Light,53
+Trim,20,Ben,Hot,Loud,Round,Hurried,10,40-49,Long,1.65,76,25/04/2020,Light,27
+Baby cut,60,Tom,Stormy,Loud,Round,Tired,20,50-59,Medium,1.66,81,25/04/2020,Dark,68
+Fade,80,Tom,Windy,Loud,Triangular,Relaxed,0,60-69,Medium,1.66,82,25/04/2020,Light,54
+Mohawk,80,Leo,Humid,Moderate,Heart,Happy,0,60-69,Long,1.9,82,25/04/2020,Light,52
+Trim,20,Tom,Stormy,Loud,Oval,Tired,10,50-59,Medium,1.83,79,25/04/2020,Light,26
+Fade,80,Leo,Cold,Moderate,Round,Tired,10,40-49,Short,1.86,70,25/04/2020,Light,46
+Fade,80,Ben,Windy,Loud,Pear,Relaxed,15,50-59,Medium,1.72,75,26/04/2020,Light,45
+Baby cut,60,Tom,Cold,Moderate,Pear,Tired,20,40-49,Short,1.6,70,26/04/2020,Light,52
+Panga,80,Tom,Sunny,Loud,Triangular,Relaxed,20,50-59,Long,1.66,82,26/04/2020,Light,80
+Panga,80,Ben,Stormy,Low,Square,Happy,15,30-39,Medium,1.83,63,26/04/2020,Light,78
+Bald,50,Leo,Sunny,Moderate,Oval,Happy,0,5-19,Medium,1.57,29,26/04/2020,Dark,45
+Baby cut,60,Tom,Dry,Loud,Triangular,Worried,10,40-49,Medium,1.88,71,26/04/2020,Light,55
+Bald,50,Ben,Cold,Loud,Pear,Relaxed,0,20-29,Medium,1.86,57,26/04/2020,Dark,58
+Fade,80,Ben,Windy,Moderate,Round,Tired,20,60-69,Medium,1.55,80,26/04/2020,Dark,34
+Mohawk,80,Tom,Hot,Low,Pear,Happy,0,60-69,Long,1.57,79,26/04/2020,Dark,57
+Bald,50,Ben,Sunny,Moderate,Round,Serious,20,40-49,Short,1.9,78,26/04/2020,Light,50
+Mohawk,80,Tom,Humid,Low,Round,Happy,20,50-59,Long,1.57,81,26/04/2020,Light,42
+Fade,80,Ben,Humid,Moderate,Heart,Serious,20,40-49,Short,1.72,71,26/04/2020,Dark,50
+Fade,80,Tom,Windy,Moderate,Heart,Hurried,0,5-19,Medium,1.57,29,27/04/2020,Light,47
+Trim,20,Leo,Stormy,Low,Pear,Hurried,10,40-49,Long,1.88,71,27/04/2020,Light,20
+Fade,80,Leo,Stormy,Low,Oval,Happy,10,40-49,Medium,1.7,75,27/04/2020,Light,38
+Mohawk,80,Leo,Stormy,Moderate,Triangular,Worried,10,5-19,Long,1.5,39,27/04/2020,Light,53
+Panga,80,Ben,Sunny,Loud,Pear,Tired,10,60-69,Long,1.65,79,27/04/2020,Dark,74
+Afro,70,Tom,Stormy,Loud,Square,Relaxed,15,60-69,Long,1.86,80,27/04/2020,Light,46
+Panga,80,Leo,Sunny,Moderate,Square,Hurried,10,40-49,Medium,1.57,72,27/04/2020,Dark,78
+Trim,20,Ben,Stormy,Loud,Heart,Hurried,10,5-19,Medium,1.72,32,27/04/2020,Dark,35
+Trim,20,Tom,Humid,Low,Pear,Happy,15,30-39,Long,1.55,62,27/04/2020,Light,22
+Baby cut,60,Ben,Stormy,Moderate,Oval,Serious,15,50-59,Short,1.72,75,27/04/2020,Light,70
+Trim,20,Leo,Stormy,Moderate,Pear,Tired,0,50-59,Short,1.9,80,27/04/2020,Dark,38
+Fade,80,Tom,Hot,Loud,Round,Serious,0,20-29,Short,1.86,56,27/04/2020,Light,36
+Afro,70,Tom,Hot,Moderate,Round,Hurried,20,60-69,Long,1.88,83,27/04/2020,Dark,57
+Trim,20,Tom,Cold,Low,Oval,Hurried,10,5-19,Long,1.7,32,27/04/2020,Light,25
+Fade,80,Ben,Cold,Low,Round,Happy,15,60-69,Medium,1.83,80,27/04/2020,Dark,35
+Fade,80,Ben,Stormy,Low,Triangular,Worried,0,5-19,Short,1.57,35,28/04/2020,Dark,38
+Baby cut,60,Leo,Sunny,Low,Pear,Serious,20,40-49,Short,1.57,75,28/04/2020,Dark,67
+Afro,70,Ben,Windy,Loud,Round,Tired,10,5-19,Long,1.55,33,28/04/2020,Dark,52
+Fade,80,Ben,Sunny,Moderate,Triangular,Tired,15,20-29,Medium,1.9,55,28/04/2020,Light,44
+Bald,50,Tom,Cold,Moderate,Triangular,Tired,10,5-19,Medium,1.6,36,28/04/2020,Dark,43
+Panga,80,Ben,Humid,Loud,Triangular,Happy,0,50-59,Long,1.65,80,28/04/2020,Light,88
+Panga,80,Ben,Stormy,Moderate,Round,Happy,20,60-69,Medium,1.86,75,28/04/2020,Light,78
+Trim,20,Ben,Dry,Low,Square,Serious,0,20-29,Medium,1.57,50,28/04/2020,Dark,33
+Bald,50,Ben,Dry,Low,Triangular,Serious,15,50-59,Short,1.7,76,28/04/2020,Dark,60
+Fade,80,Ben,Hot,Low,Square,Hurried,10,40-49,Short,1.6,77,28/04/2020,Light,45
+Baby cut,60,Leo,Humid,Low,Triangular,Serious,15,40-49,Short,1.5,74,28/04/2020,Light,55
+Fade,80,Leo,Humid,Low,Square,Worried,20,60-69,Short,1.88,80,29/04/2020,Light,36
+Bald,50,Leo,Cold,Low,Round,Happy,0,40-49,Short,1.65,78,29/04/2020,Dark,42
+Fade,80,Ben,Hot,Low,Round,Tired,0,20-29,Medium,1.9,57,29/04/2020,Light,46
+Panga,80,Tom,Sunny,Low,Heart,Worried,15,60-69,Long,1.65,83,29/04/2020,Dark,71
+Bald,50,Leo,Hot,Low,Triangular,Worried,0,5-19,Short,1.55,39,29/04/2020,Light,60
+Mohawk,80,Tom,Humid,Low,Round,Worried,15,5-19,Long,1.72,34,29/04/2020,Light,52
+Mohawk,80,Leo,Dry,Loud,Pear,Serious,15,30-39,Long,1.65,68,29/04/2020,Light,59
+Mohawk,80,Tom,Windy,Loud,Round,Hurried,20,5-19,Long,1.6,31,29/04/2020,Dark,49
+Trim,20,Leo,Hot,Loud,Heart,Relaxed,15,60-69,Medium,1.86,76,29/04/2020,Light,40
+Trim,20,Tom,Sunny,Loud,Round,Happy,0,60-69,Long,1.6,83,29/04/2020,Light,36
+Trim,20,Leo,Hot,Moderate,Triangular,Tired,20,40-49,Short,1.88,75,29/04/2020,Dark,27
+Bald,50,Tom,Stormy,Low,Pear,Happy,10,5-19,Medium,1.65,33,29/04/2020,Light,56
+Afro,70,Tom,Sunny,Loud,Round,Hurried,0,20-29,Long,1.5,53,29/04/2020,Dark,59
+Afro,70,Leo,Hot,Loud,Square,Tired,10,30-39,Long,1.88,67,29/04/2020,Dark,60
+Fade,80,Leo,Windy,Low,Square,Happy,0,50-59,Short,1.9,75,29/04/2020,Dark,34
+Panga,80,Leo,Stormy,Low,Round,Serious,15,5-19,Long,1.57,37,29/04/2020,Dark,85
+Baby cut,60,Ben,Stormy,Moderate,Oval,Happy,10,30-39,Short,1.55,70,30/04/2020,Light,55
+Baby cut,60,Tom,Windy,Moderate,Triangular,Relaxed,15,40-49,Medium,1.6,70,30/04/2020,Light,51
+Panga,80,Leo,Sunny,Moderate,Heart,Hurried,10,60-69,Medium,1.6,82,30/04/2020,Light,84
+Baby cut,60,Tom,Dry,Low,Heart,Relaxed,0,30-39,Medium,1.83,63,30/04/2020,Light,68
+Panga,80,Tom,Cold,Loud,Triangular,Serious,20,20-29,Medium,1.88,53,30/04/2020,Dark,83
+Panga,80,Ben,Humid,Moderate,Square,Happy,10,60-69,Medium,1.9,83,30/04/2020,Light,89
+Afro,70,Leo,Cold,Moderate,Oval,Tired,10,5-19,Long,1.88,38,30/04/2020,Dark,54
+Afro,70,Leo,Humid,Moderate,Triangular,Serious,15,60-69,Long,1.83,80,30/04/2020,Light,59
+Panga,80,Tom,Stormy,Low,Oval,Tired,10,60-69,Long,1.5,78,30/04/2020,Dark,83
+Fade,80,Tom,Dry,Low,Pear,Hurried,15,5-19,Short,1.83,37,30/04/2020,Dark,41
+Afro,70,Ben,Cold,Loud,Triangular,Tired,0,5-19,Long,1.83,29,30/04/2020,Light,55
+Mohawk,80,Ben,Hot,Moderate,Oval,Worried,10,40-49,Long,1.9,75,30/04/2020,Light,52
+Bald,50,Leo,Windy,Low,Square,Hurried,10,40-49,Short,1.72,73,30/04/2020,Light,48
+Baby cut,60,Tom,Cold,Low,Oval,Tired,10,20-29,Medium,1.65,54,30/04/2020,Dark,57
+Bald,50,Tom,Humid,Moderate,Heart,Relaxed,20,20-29,Short,1.86,55,30/04/2020,Dark,52
+Baby cut,60,Tom,Hot,Moderate,Oval,Happy,0,30-39,Short,1.86,63,30/04/2020,Dark,68
+Baby cut,60,Ben,Hot,Loud,Oval,Tired,20,20-29,Short,1.83,51,30/04/2020,Light,70
+Bald,50,Leo,Stormy,Moderate,Pear,Tired,0,20-29,Medium,1.86,58,30/04/2020,Light,59
+Baby cut,60,Leo,Humid,Loud,Pear,Hurried,15,40-49,Medium,1.66,68,30/04/2020,Dark,51
+Panga,80,Ben,Humid,Moderate,Triangular,Serious,15,60-69,Long,1.6,81,30/04/2020,Light,71
+Afro,70,Leo,Dry,Low,Heart,Worried,0,40-49,Long,1.9,72,1/05/2020,Dark,52
+Afro,70,Tom,Sunny,Loud,Oval,Relaxed,20,40-49,Long,1.86,75,1/05/2020,Light,61
+Afro,70,Leo,Stormy,Loud,Round,Relaxed,10,20-29,Long,1.55,59,1/05/2020,Dark,48
+Baby cut,60,Tom,Stormy,Loud,Heart,Worried,20,30-39,Medium,1.86,70,1/05/2020,Light,50
+Bald,50,Tom,Sunny,Moderate,Oval,Worried,10,50-59,Medium,1.86,81,1/05/2020,Dark,50
+Bald,50,Ben,Sunny,Low,Heart,Worried,15,5-19,Medium,1.88,29,1/05/2020,Light,58
+Afro,70,Tom,Dry,Low,Pear,Happy,10,5-19,Long,1.9,38,1/05/2020,Dark,50
+Afro,70,Ben,Stormy,Loud,Pear,Worried,20,60-69,Long,1.72,76,1/05/2020,Dark,48
+Afro,70,Leo,Dry,Low,Square,Hurried,10,60-69,Long,1.72,85,1/05/2020,Dark,57
+Bald,50,Tom,Hot,Loud,Square,Hurried,20,50-59,Medium,1.88,82,1/05/2020,Dark,46
+Mohawk,80,Ben,Stormy,Loud,Square,Serious,0,5-19,Long,1.7,33,1/05/2020,Dark,42
+Fade,80,Tom,Windy,Low,Triangular,Tired,0,40-49,Short,1.72,78,1/05/2020,Dark,43
+Fade,80,Leo,Dry,Moderate,Oval,Happy,10,5-19,Short,1.72,37,1/05/2020,Light,40
+Afro,70,Tom,Windy,Moderate,Round,Relaxed,10,5-19,Long,1.83,32,1/05/2020,Light,53
+Trim,20,Ben,Hot,Moderate,Square,Serious,15,40-49,Short,1.66,72,1/05/2020,Dark,20
+Panga,80,Ben,Sunny,Moderate,Triangular,Hurried,15,50-59,Medium,1.6,77,1/05/2020,Dark,73
+Fade,80,Ben,Stormy,Loud,Heart,Tired,10,60-69,Medium,1.6,75,1/05/2020,Light,39
+Panga,80,Ben,Cold,Moderate,Pear,Tired,15,60-69,Long,1.5,76,1/05/2020,Light,84
+Fade,80,Tom,Dry,Loud,Oval,Tired,0,50-59,Short,1.83,73,1/05/2020,Light,48
+Trim,20,Tom,Sunny,Moderate,Heart,Happy,0,60-69,Long,1.55,81,2/05/2020,Dark,33
+Afro,70,Tom,Hot,Loud,Triangular,Happy,15,30-39,Long,1.83,65,2/05/2020,Light,50
+Afro,70,Ben,Cold,Loud,Square,Relaxed,15,50-59,Long,1.66,82,2/05/2020,Light,47
+Baby cut,60,Leo,Dry,Loud,Heart,Relaxed,0,50-59,Medium,1.9,78,2/05/2020,Light,62
+Baby cut,60,Leo,Hot,Loud,Pear,Happy,15,50-59,Medium,1.55,75,2/05/2020,Light,55
+Bald,50,Leo,Hot,Loud,Triangular,Happy,15,50-59,Short,1.66,81,2/05/2020,Dark,58
+Trim,20,Leo,Hot,Low,Round,Serious,0,60-69,Medium,1.9,76,2/05/2020,Dark,38
+Mohawk,80,Tom,Windy,Loud,Round,Hurried,15,50-59,Long,1.57,81,2/05/2020,Dark,47
+Fade,80,Tom,Humid,Low,Oval,Happy,10,50-59,Medium,1.57,82,2/05/2020,Dark,48
+Baby cut,60,Ben,Stormy,Loud,Heart,Relaxed,0,5-19,Short,1.5,37,2/05/2020,Light,60
+Baby cut,60,Leo,Hot,Loud,Triangular,Worried,10,50-59,Short,1.86,79,2/05/2020,Light,61
+Afro,70,Ben,Windy,Moderate,Pear,Happy,15,60-69,Long,1.65,80,2/05/2020,Light,62
+Afro,70,Tom,Stormy,Moderate,Square,Hurried,15,40-49,Long,1.7,68,2/05/2020,Light,50
+Mohawk,80,Tom,Humid,Low,Oval,Tired,10,50-59,Long,1.6,81,2/05/2020,Dark,56
+Afro,70,Tom,Stormy,Moderate,Pear,Hurried,20,30-39,Long,1.57,62,2/05/2020,Dark,59
+Mohawk,80,Tom,Stormy,Loud,Round,Happy,10,60-69,Long,1.83,75,2/05/2020,Dark,62
+Fade,80,Ben,Humid,Moderate,Round,Worried,20,60-69,Medium,1.86,77,3/05/2020,Dark,45
+Trim,20,Leo,Dry,Moderate,Pear,Relaxed,20,40-49,Long,1.55,77,3/05/2020,Light,38
+Trim,20,Leo,Dry,Low,Triangular,Tired,15,20-29,Medium,1.55,54,3/05/2020,Dark,22
+Panga,80,Tom,Stormy,Moderate,Triangular,Happy,20,20-29,Medium,1.86,52,3/05/2020,Light,85
+Bald,50,Ben,Windy,Loud,Heart,Serious,20,60-69,Short,1.66,81,3/05/2020,Dark,44
+Fade,80,Leo,Windy,Loud,Heart,Serious,20,60-69,Short,1.65,76,3/05/2020,Light,34
+Trim,20,Tom,Windy,Moderate,Pear,Tired,15,50-59,Short,1.66,76,3/05/2020,Dark,20
+Trim,20,Ben,Hot,Moderate,Pear,Relaxed,20,50-59,Short,1.72,82,3/05/2020,Light,31
+Trim,20,Ben,Cold,Moderate,Pear,Hurried,0,5-19,Medium,1.57,38,3/05/2020,Light,29
+Fade,80,Ben,Humid,Moderate,Round,Tired,15,60-69,Short,1.86,82,3/05/2020,Dark,39
+Fade,80,Leo,Hot,Moderate,Square,Happy,0,60-69,Short,1.86,83,3/05/2020,Dark,38
+Baby cut,60,Ben,Dry,Moderate,Heart,Tired,10,30-39,Short,1.66,70,3/05/2020,Light,68
+Trim,20,Leo,Cold,Loud,Round,Relaxed,15,30-39,Medium,1.83,65,3/05/2020,Dark,26
+Fade,80,Tom,Hot,Moderate,Square,Tired,15,20-29,Short,1.88,53,4/05/2020,Dark,48
+Afro,70,Ben,Stormy,Low,Oval,Happy,0,50-59,Long,1.7,81,4/05/2020,Dark,66
+Baby cut,60,Tom,Dry,Moderate,Oval,Hurried,20,30-39,Short,1.86,71,4/05/2020,Light,57
+Afro,70,Leo,Dry,Low,Round,Relaxed,10,60-69,Long,1.55,78,4/05/2020,Light,53
+Afro,70,Leo,Dry,Moderate,Square,Tired,15,60-69,Long,1.88,83,4/05/2020,Light,47
+Baby cut,60,Tom,Sunny,Low,Round,Happy,15,40-49,Medium,1.55,78,4/05/2020,Light,50
+Fade,80,Leo,Cold,Moderate,Oval,Happy,15,40-49,Short,1.5,74,4/05/2020,Light,40
+Trim,20,Ben,Cold,Loud,Heart,Happy,10,20-29,Short,1.5,57,4/05/2020,Light,21
+Mohawk,80,Leo,Sunny,Low,Pear,Relaxed,10,60-69,Long,1.9,79,4/05/2020,Dark,43
+Panga,80,Ben,Sunny,Loud,Round,Hurried,0,30-39,Medium,1.72,66,4/05/2020,Light,87
+Bald,50,Tom,Stormy,Moderate,Square,Hurried,15,60-69,Medium,1.86,84,4/05/2020,Light,53
+Baby cut,60,Leo,Windy,Loud,Square,Happy,10,30-39,Short,1.57,66,4/05/2020,Dark,59
+Panga,80,Tom,Stormy,Moderate,Round,Hurried,0,60-69,Long,1.83,75,4/05/2020,Light,79
+Bald,50,Ben,Sunny,Loud,Pear,Serious,15,5-19,Medium,1.65,38,4/05/2020,Dark,53
+Mohawk,80,Leo,Sunny,Moderate,Pear,Hurried,20,40-49,Long,1.5,68,4/05/2020,Light,42
+Bald,50,Leo,Dry,Moderate,Heart,Relaxed,20,60-69,Medium,1.5,82,4/05/2020,Light,46
+Fade,80,Leo,Sunny,Loud,Square,Happy,10,50-59,Medium,1.55,82,4/05/2020,Dark,53
+Baby cut,60,Ben,Stormy,Loud,Round,Relaxed,20,50-59,Short,1.65,78,4/05/2020,Dark,53
+Bald,50,Tom,Hot,Moderate,Triangular,Serious,20,5-19,Medium,1.83,39,4/05/2020,Dark,56
+Mohawk,80,Ben,Humid,Moderate,Square,Tired,20,30-39,Long,1.6,65,5/05/2020,Dark,50
+Mohawk,80,Leo,Windy,Loud,Pear,Tired,20,20-29,Long,1.72,59,5/05/2020,Dark,62
+Mohawk,80,Ben,Humid,Loud,Round,Tired,0,60-69,Long,1.86,79,5/05/2020,Dark,48
+Mohawk,80,Tom,Hot,Moderate,Square,Relaxed,15,60-69,Long,1.83,81,5/05/2020,Dark,60
+Baby cut,60,Leo,Windy,Loud,Heart,Tired,15,20-29,Medium,1.5,59,5/05/2020,Light,60
+Afro,70,Leo,Sunny,Loud,Triangular,Happy,20,60-69,Long,1.83,80,5/05/2020,Dark,55
+Mohawk,80,Ben,Sunny,Loud,Pear,Hurried,0,50-59,Long,1.86,78,5/05/2020,Light,52
+Afro,70,Ben,Hot,Moderate,Heart,Serious,20,30-39,Long,1.65,64,5/05/2020,Light,63
+Panga,80,Leo,Sunny,Loud,Square,Tired,15,60-69,Medium,1.88,83,5/05/2020,Dark,75
+Panga,80,Ben,Dry,Low,Oval,Relaxed,0,30-39,Medium,1.7,71,5/05/2020,Light,85
+Bald,50,Ben,Cold,Low,Pear,Tired,10,60-69,Short,1.86,79,5/05/2020,Light,47
+Baby cut,60,Tom,Stormy,Loud,Heart,Happy,20,60-69,Medium,1.88,76,5/05/2020,Dark,50
+Panga,80,Leo,Hot,Loud,Square,Happy,10,30-39,Long,1.83,62,5/05/2020,Dark,83
+Trim,20,Tom,Sunny,Loud,Triangular,Worried,15,5-19,Long,1.6,35,6/05/2020,Dark,27
+Bald,50,Ben,Humid,Moderate,Heart,Relaxed,0,40-49,Short,1.55,76,6/05/2020,Light,41
+Bald,50,Tom,Stormy,Loud,Pear,Worried,15,50-59,Medium,1.6,73,6/05/2020,Dark,58
+Baby cut,60,Tom,Humid,Loud,Heart,Happy,20,30-39,Medium,1.6,71,6/05/2020,Light,51
+Panga,80,Tom,Windy,Loud,Oval,Happy,20,60-69,Medium,1.5,84,6/05/2020,Dark,85
+Panga,80,Ben,Hot,Loud,Triangular,Relaxed,15,40-49,Long,1.83,75,6/05/2020,Light,82
+Baby cut,60,Ben,Windy,Low,Triangular,Tired,15,5-19,Short,1.86,34,6/05/2020,Dark,50
+Fade,80,Leo,Dry,Loud,Round,Hurried,10,50-59,Medium,1.9,82,6/05/2020,Dark,36
+Fade,80,Tom,Dry,Loud,Heart,Hurried,10,40-49,Short,1.88,69,6/05/2020,Light,54
+Panga,80,Leo,Sunny,Moderate,Oval,Tired,20,60-69,Long,1.5,83,6/05/2020,Light,70
+Panga,80,Leo,Dry,Loud,Heart,Tired,15,50-59,Long,1.55,77,6/05/2020,Light,86
+Baby cut,60,Leo,Windy,Loud,Square,Serious,0,40-49,Medium,1.55,74,6/05/2020,Dark,70
+Panga,80,Leo,Hot,Loud,Oval,Serious,20,60-69,Medium,1.88,83,6/05/2020,Dark,81
+Fade,80,Ben,Sunny,Moderate,Heart,Worried,20,60-69,Short,1.65,85,6/05/2020,Light,53
+Mohawk,80,Tom,Hot,Low,Oval,Worried,10,20-29,Long,1.55,57,6/05/2020,Light,52
+Bald,50,Leo,Stormy,Low,Square,Serious,10,5-19,Medium,1.72,38,6/05/2020,Dark,60
+Baby cut,60,Leo,Stormy,Moderate,Triangular,Hurried,0,20-29,Medium,1.86,52,6/05/2020,Dark,59
+Afro,70,Leo,Sunny,Low,Square,Hurried,0,50-59,Long,1.57,77,6/05/2020,Dark,55
+Mohawk,80,Leo,Hot,Moderate,Pear,Serious,10,50-59,Long,1.57,80,6/05/2020,Dark,46
+Bald,50,Ben,Hot,Low,Triangular,Happy,10,20-29,Medium,1.86,57,6/05/2020,Dark,56
+Fade,80,Tom,Windy,Low,Triangular,Hurried,10,60-69,Medium,1.83,75,7/05/2020,Light,38
+Panga,80,Leo,Hot,Low,Oval,Tired,0,20-29,Medium,1.57,54,7/05/2020,Dark,83
+Fade,80,Leo,Hot,Low,Pear,Serious,10,5-19,Short,1.83,33,7/05/2020,Dark,52
+Afro,70,Ben,Hot,Loud,Heart,Relaxed,20,60-69,Long,1.86,83,7/05/2020,Light,64
+Panga,80,Ben,Stormy,Loud,Pear,Hurried,0,5-19,Medium,1.65,33,7/05/2020,Light,83
+Afro,70,Leo,Dry,Low,Pear,Happy,0,5-19,Long,1.83,35,7/05/2020,Dark,57
+Afro,70,Leo,Windy,Loud,Square,Tired,0,20-29,Long,1.65,51,7/05/2020,Light,49
+Baby cut,60,Leo,Dry,Loud,Heart,Hurried,10,20-29,Medium,1.65,50,7/05/2020,Dark,62
+Baby cut,60,Ben,Humid,Moderate,Heart,Hurried,20,60-69,Short,1.6,85,7/05/2020,Light,63
+Trim,20,Leo,Cold,Moderate,Square,Serious,20,60-69,Medium,1.5,79,7/05/2020,Dark,34
+Baby cut,60,Ben,Dry,Low,Square,Serious,0,20-29,Short,1.5,53,7/05/2020,Dark,53
+Fade,80,Leo,Dry,Moderate,Pear,Hurried,20,5-19,Medium,1.72,35,7/05/2020,Dark,53
+Fade,80,Ben,Cold,Low,Square,Relaxed,0,20-29,Medium,1.55,58,7/05/2020,Light,52
+Panga,80,Leo,Hot,Low,Round,Serious,20,40-49,Long,1.88,74,7/05/2020,Dark,85
+Panga,80,Ben,Hot,Low,Heart,Relaxed,15,60-69,Medium,1.5,75,8/05/2020,Light,72
+Fade,80,Ben,Windy,Low,Triangular,Hurried,10,20-29,Medium,1.65,52,8/05/2020,Dark,46
+Fade,80,Tom,Dry,Loud,Square,Serious,0,40-49,Short,1.65,74,8/05/2020,Dark,35
+Bald,50,Tom,Stormy,Moderate,Oval,Happy,0,40-49,Short,1.83,68,8/05/2020,Light,47
+Baby cut,60,Tom,Cold,Low,Pear,Worried,10,40-49,Medium,1.6,73,8/05/2020,Light,53
+Mohawk,80,Leo,Sunny,Low,Oval,Hurried,0,60-69,Long,1.57,77,8/05/2020,Light,61
+Mohawk,80,Ben,Sunny,Loud,Heart,Tired,15,20-29,Long,1.6,58,8/05/2020,Light,55
+Baby cut,60,Ben,Humid,Low,Pear,Worried,10,40-49,Medium,1.83,70,8/05/2020,Light,62
+Panga,80,Leo,Stormy,Moderate,Pear,Relaxed,15,40-49,Long,1.66,78,8/05/2020,Dark,84
+Fade,80,Leo,Cold,Loud,Pear,Worried,15,50-59,Short,1.86,79,8/05/2020,Light,52
+Trim,20,Leo,Cold,Moderate,Pear,Serious,0,60-69,Medium,1.66,84,8/05/2020,Dark,38
+Trim,20,Tom,Stormy,Low,Oval,Hurried,10,50-59,Long,1.7,82,8/05/2020,Dark,20
+Trim,20,Leo,Sunny,Moderate,Oval,Hurried,15,5-19,Short,1.83,29,8/05/2020,Light,38
+Fade,80,Tom,Humid,Loud,Heart,Tired,15,30-39,Short,1.72,66,9/05/2020,Light,53
+Mohawk,80,Ben,Hot,Moderate,Heart,Happy,15,20-29,Long,1.65,51,9/05/2020,Dark,47
+Fade,80,Tom,Hot,Loud,Heart,Tired,0,20-29,Medium,1.5,53,9/05/2020,Light,51
+Bald,50,Tom,Dry,Low,Heart,Serious,0,20-29,Medium,1.66,59,9/05/2020,Dark,44
+Baby cut,60,Leo,Sunny,Low,Square,Happy,10,30-39,Medium,1.88,69,9/05/2020,Light,50
+Bald,50,Leo,Dry,Low,Triangular,Hurried,15,20-29,Medium,1.9,56,9/05/2020,Dark,56
+Bald,50,Tom,Sunny,Low,Round,Happy,20,5-19,Medium,1.86,38,9/05/2020,Light,44
+Bald,50,Ben,Sunny,Moderate,Round,Relaxed,0,60-69,Short,1.7,78,9/05/2020,Dark,54
+Fade,80,Tom,Humid,Moderate,Round,Hurried,0,20-29,Medium,1.6,56,9/05/2020,Light,42
+Trim,20,Tom,Windy,Loud,Square,Happy,0,50-59,Medium,1.7,78,9/05/2020,Dark,35
+Fade,80,Ben,Stormy,Loud,Heart,Worried,10,50-59,Medium,1.7,73,9/05/2020,Light,42
+Fade,80,Tom,Dry,Loud,Oval,Happy,10,50-59,Short,1.55,82,9/05/2020,Light,36
+Afro,70,Ben,Cold,Moderate,Square,Hurried,20,30-39,Long,1.66,68,10/05/2020,Dark,58
+Mohawk,80,Tom,Hot,Moderate,Triangular,Happy,0,30-39,Long,1.72,70,10/05/2020,Light,61
+Afro,70,Leo,Hot,Low,Round,Relaxed,0,30-39,Long,1.7,63,10/05/2020,Dark,58
+Afro,70,Tom,Humid,Loud,Round,Serious,20,30-39,Long,1.66,64,10/05/2020,Dark,46
+Bald,50,Tom,Humid,Loud,Round,Tired,10,60-69,Short,1.72,82,10/05/2020,Dark,42
+Fade,80,Tom,Cold,Low,Pear,Serious,15,20-29,Short,1.66,50,10/05/2020,Light,49
+Bald,50,Ben,Humid,Loud,Square,Happy,0,30-39,Short,1.86,67,10/05/2020,Light,57
+Fade,80,Ben,Dry,Low,Heart,Hurried,20,5-19,Medium,1.57,34,10/05/2020,Light,52
+Fade,80,Tom,Hot,Low,Square,Relaxed,10,60-69,Medium,1.5,78,10/05/2020,Dark,40
+Fade,80,Ben,Humid,Loud,Pear,Worried,15,20-29,Medium,1.65,54,10/05/2020,Dark,45
+Bald,50,Tom,Hot,Moderate,Pear,Serious,15,5-19,Short,1.66,30,10/05/2020,Dark,48
+Bald,50,Ben,Sunny,Loud,Triangular,Worried,15,40-49,Short,1.65,72,10/05/2020,Dark,59
+Bald,50,Ben,Dry,Loud,Pear,Worried,0,20-29,Short,1.5,52,11/05/2020,Light,54
+Trim,20,Leo,Hot,Moderate,Square,Happy,15,60-69,Medium,1.57,85,11/05/2020,Light,39
+Baby cut,60,Leo,Humid,Moderate,Square,Hurried,20,30-39,Medium,1.88,70,11/05/2020,Light,52
+Afro,70,Leo,Windy,Low,Round,Tired,20,30-39,Long,1.88,67,11/05/2020,Dark,46
+Panga,80,Tom,Sunny,Low,Triangular,Relaxed,0,50-59,Medium,1.83,73,11/05/2020,Light,90
+Fade,80,Leo,Dry,Loud,Heart,Happy,20,40-49,Short,1.9,71,11/05/2020,Light,48
+Fade,80,Leo,Dry,Moderate,Triangular,Serious,20,30-39,Medium,1.83,67,11/05/2020,Dark,40
+Trim,20,Leo,Windy,Low,Heart,Tired,15,50-59,Medium,1.86,76,11/05/2020,Dark,30
+Afro,70,Leo,Cold,Low,Round,Happy,15,30-39,Long,1.57,68,11/05/2020,Dark,57
+Panga,80,Leo,Windy,Moderate,Oval,Tired,20,20-29,Medium,1.55,55,11/05/2020,Dark,82
+Mohawk,80,Ben,Humid,Loud,Round,Worried,20,50-59,Long,1.57,74,11/05/2020,Light,57
+Fade,80,Tom,Humid,Loud,Round,Relaxed,15,60-69,Short,1.5,76,11/05/2020,Light,43
+Baby cut,60,Tom,Sunny,Moderate,Round,Serious,15,60-69,Short,1.72,79,11/05/2020,Dark,55
+Baby cut,60,Leo,Humid,Loud,Oval,Worried,0,60-69,Medium,1.83,85,11/05/2020,Dark,52
+Bald,50,Tom,Humid,Moderate,Oval,Hurried,20,50-59,Short,1.72,79,11/05/2020,Dark,41
+Mohawk,80,Ben,Humid,Low,Triangular,Worried,0,20-29,Long,1.57,56,11/05/2020,Light,47
+Afro,70,Tom,Hot,Moderate,Triangular,Serious,20,20-29,Long,1.55,54,11/05/2020,Dark,64
+Afro,70,Tom,Stormy,Moderate,Square,Relaxed,0,5-19,Long,1.9,38,11/05/2020,Light,55
+Bald,50,Leo,Stormy,Low,Pear,Relaxed,0,5-19,Medium,1.5,38,11/05/2020,Dark,47
+Trim,20,Ben,Windy,Moderate,Heart,Happy,10,30-39,Short,1.66,66,11/05/2020,Dark,34
+Mohawk,80,Leo,Cold,Moderate,Heart,Relaxed,10,5-19,Long,1.6,39,12/05/2020,Light,42
+Fade,80,Ben,Hot,Low,Oval,Hurried,0,20-29,Short,1.88,57,12/05/2020,Light,45
+Afro,70,Tom,Humid,Low,Oval,Serious,10,60-69,Long,1.57,82,12/05/2020,Light,52
+Fade,80,Tom,Humid,Moderate,Heart,Worried,0,20-29,Medium,1.6,54,12/05/2020,Light,51
+Panga,80,Tom,Stormy,Loud,Pear,Worried,20,40-49,Long,1.6,77,12/05/2020,Dark,80
+Bald,50,Leo,Cold,Low,Heart,Tired,10,40-49,Medium,1.88,72,12/05/2020,Dark,48
+Afro,70,Leo,Dry,Low,Oval,Serious,10,40-49,Long,1.7,72,12/05/2020,Light,50
+Mohawk,80,Ben,Dry,Moderate,Square,Happy,15,30-39,Long,1.72,69,12/05/2020,Dark,58
+Mohawk,80,Ben,Hot,Moderate,Triangular,Relaxed,15,5-19,Long,1.83,36,12/05/2020,Light,53
+Trim,20,Leo,Hot,Low,Triangular,Tired,20,20-29,Medium,1.88,50,12/05/2020,Dark,20
+Panga,80,Tom,Cold,Low,Heart,Worried,15,30-39,Long,1.5,72,13/05/2020,Dark,86
+Fade,80,Leo,Humid,Low,Heart,Hurried,15,60-69,Medium,1.86,77,13/05/2020,Light,48
+Trim,20,Ben,Cold,Low,Round,Happy,10,5-19,Short,1.9,31,13/05/2020,Dark,21
+Bald,50,Leo,Sunny,Moderate,Oval,Happy,10,40-49,Short,1.57,69,13/05/2020,Light,57
+Panga,80,Leo,Windy,Moderate,Oval,Relaxed,20,40-49,Medium,1.72,78,13/05/2020,Light,77
+Baby cut,60,Tom,Cold,Low,Oval,Worried,20,60-69,Short,1.9,81,13/05/2020,Dark,60
+Bald,50,Ben,Humid,Loud,Round,Tired,0,40-49,Medium,1.72,77,13/05/2020,Light,46
+Panga,80,Leo,Dry,Low,Round,Serious,20,40-49,Long,1.72,74,13/05/2020,Light,77
+Mohawk,80,Tom,Hot,Moderate,Pear,Happy,10,60-69,Long,1.6,81,13/05/2020,Dark,56
+Baby cut,60,Tom,Dry,Loud,Heart,Relaxed,15,40-49,Medium,1.88,72,13/05/2020,Light,53
+Bald,50,Ben,Humid,Low,Oval,Tired,15,60-69,Medium,1.6,75,13/05/2020,Dark,47
+Trim,20,Leo,Sunny,Moderate,Square,Hurried,15,30-39,Long,1.86,64,13/05/2020,Dark,24
+Panga,80,Leo,Humid,Loud,Oval,Serious,20,20-29,Medium,1.7,54,13/05/2020,Light,85
+Fade,80,Leo,Windy,Loud,Triangular,Relaxed,15,5-19,Medium,1.66,29,13/05/2020,Dark,34
+Bald,50,Leo,Cold,Moderate,Heart,Tired,15,20-29,Medium,1.5,57,13/05/2020,Light,47
+Trim,20,Ben,Dry,Loud,Square,Happy,10,50-59,Short,1.66,73,13/05/2020,Light,26
+Mohawk,80,Ben,Dry,Loud,Oval,Hurried,10,20-29,Long,1.7,55,13/05/2020,Light,54
+Trim,20,Tom,Sunny,Low,Square,Relaxed,20,5-19,Long,1.9,37,13/05/2020,Dark,23
+Trim,20,Tom,Cold,Moderate,Round,Serious,10,50-59,Short,1.83,83,13/05/2020,Dark,20
+Trim,20,Tom,Stormy,Moderate,Oval,Worried,15,60-69,Short,1.86,75,14/05/2020,Dark,30
+Baby cut,60,Leo,Windy,Loud,Triangular,Worried,15,50-59,Medium,1.9,82,14/05/2020,Dark,65
+Fade,80,Ben,Stormy,Low,Triangular,Worried,15,60-69,Medium,1.86,77,14/05/2020,Light,44
+Bald,50,Leo,Humid,Loud,Heart,Happy,20,20-29,Short,1.86,59,14/05/2020,Dark,44
+Afro,70,Tom,Cold,Moderate,Pear,Serious,10,50-59,Long,1.72,76,14/05/2020,Light,55
+Afro,70,Tom,Stormy,Low,Oval,Happy,10,50-59,Long,1.9,78,14/05/2020,Light,52
+Baby cut,60,Leo,Hot,Low,Heart,Hurried,15,60-69,Medium,1.83,76,14/05/2020,Dark,65
+Panga,80,Ben,Humid,Low,Square,Hurried,20,40-49,Medium,1.7,74,14/05/2020,Dark,80
+Bald,50,Leo,Hot,Loud,Heart,Serious,0,40-49,Medium,1.72,71,14/05/2020,Light,43
+Trim,20,Ben,Dry,Moderate,Heart,Tired,15,30-39,Long,1.9,66,14/05/2020,Dark,40
+Fade,80,Leo,Stormy,Low,Heart,Tired,0,20-29,Short,1.7,57,14/05/2020,Light,46
+Fade,80,Ben,Humid,Low,Round,Happy,10,20-29,Short,1.6,50,14/05/2020,Light,47
+Mohawk,80,Ben,Stormy,Loud,Triangular,Tired,0,50-59,Long,1.83,80,14/05/2020,Dark,59
+Trim,20,Tom,Dry,Low,Heart,Happy,20,40-49,Long,1.6,68,14/05/2020,Light,35
+Mohawk,80,Leo,Humid,Moderate,Round,Happy,10,40-49,Long,1.7,70,14/05/2020,Dark,53
+Panga,80,Leo,Sunny,Low,Round,Tired,20,30-39,Long,1.6,66,14/05/2020,Light,89
+Bald,50,Tom,Stormy,Moderate,Triangular,Serious,15,60-69,Short,1.9,77,14/05/2020,Light,41
+Mohawk,80,Leo,Cold,Low,Square,Happy,0,20-29,Long,1.65,54,14/05/2020,Dark,51
+Panga,80,Tom,Dry,Moderate,Pear,Happy,15,5-19,Long,1.72,29,15/05/2020,Light,76
+Mohawk,80,Leo,Windy,Loud,Heart,Serious,20,60-69,Long,1.57,81,15/05/2020,Dark,58
+Trim,20,Tom,Cold,Loud,Triangular,Serious,0,20-29,Long,1.88,55,15/05/2020,Dark,26
+Fade,80,Tom,Windy,Loud,Pear,Hurried,15,5-19,Short,1.66,33,15/05/2020,Dark,39
+Fade,80,Ben,Humid,Low,Oval,Tired,10,5-19,Medium,1.5,29,15/05/2020,Dark,43
+Panga,80,Tom,Sunny,Low,Pear,Relaxed,0,20-29,Long,1.88,54,15/05/2020,Dark,72
+Fade,80,Ben,Hot,Low,Square,Tired,10,40-49,Medium,1.9,70,15/05/2020,Dark,50
+Mohawk,80,Leo,Windy,Low,Heart,Tired,0,40-49,Long,1.72,69,15/05/2020,Dark,52
+Afro,70,Tom,Hot,Low,Oval,Tired,0,40-49,Long,1.88,68,15/05/2020,Dark,47
+Mohawk,80,Tom,Hot,Loud,Square,Serious,10,20-29,Long,1.5,55,15/05/2020,Dark,51
+Trim,20,Leo,Sunny,Loud,Oval,Relaxed,20,20-29,Long,1.66,54,15/05/2020,Dark,31
+Afro,70,Ben,Sunny,Low,Triangular,Worried,15,5-19,Long,1.86,31,15/05/2020,Dark,54
+Baby cut,60,Ben,Sunny,Loud,Pear,Serious,10,5-19,Medium,1.55,37,15/05/2020,Light,59
+Trim,20,Ben,Sunny,Low,Square,Happy,15,40-49,Medium,1.57,68,16/05/2020,Dark,25
+Bald,50,Ben,Stormy,Low,Triangular,Happy,20,5-19,Medium,1.65,34,16/05/2020,Light,58
+Baby cut,60,Ben,Dry,Loud,Square,Hurried,0,20-29,Short,1.83,54,16/05/2020,Light,51
+Panga,80,Ben,Sunny,Low,Pear,Serious,10,40-49,Medium,1.5,73,16/05/2020,Dark,73
+Panga,80,Ben,Hot,Loud,Heart,Relaxed,15,40-49,Medium,1.86,78,16/05/2020,Dark,85
+Baby cut,60,Leo,Windy,Loud,Round,Hurried,10,40-49,Short,1.9,69,16/05/2020,Light,64
+Bald,50,Ben,Windy,Moderate,Pear,Happy,10,40-49,Short,1.9,70,16/05/2020,Light,53
+Bald,50,Tom,Sunny,Low,Oval,Worried,15,40-49,Medium,1.5,74,16/05/2020,Dark,50
+Panga,80,Ben,Cold,Loud,Heart,Worried,15,50-59,Medium,1.57,82,16/05/2020,Light,90
+Panga,80,Leo,Windy,Moderate,Oval,Happy,20,40-49,Medium,1.66,70,16/05/2020,Light,85
+Fade,80,Tom,Hot,Loud,Triangular,Serious,0,5-19,Short,1.65,36,16/05/2020,Dark,40
+Panga,80,Ben,Stormy,Low,Heart,Serious,10,40-49,Medium,1.55,71,16/05/2020,Light,88
+Fade,80,Tom,Stormy,Low,Square,Relaxed,10,50-59,Short,1.65,82,16/05/2020,Light,37
+Bald,50,Tom,Stormy,Loud,Triangular,Happy,0,40-49,Short,1.7,78,16/05/2020,Dark,54
+Fade,80,Tom,Dry,Moderate,Heart,Relaxed,0,30-39,Medium,1.55,71,16/05/2020,Light,48
+Afro,70,Ben,Windy,Low,Square,Serious,0,20-29,Long,1.86,57,16/05/2020,Dark,57
+Panga,80,Ben,Sunny,Low,Oval,Serious,15,30-39,Medium,1.7,69,17/05/2020,Light,83
+Mohawk,80,Leo,Windy,Moderate,Square,Happy,10,20-29,Long,1.88,59,17/05/2020,Dark,46
+Baby cut,60,Leo,Cold,Moderate,Pear,Tired,10,50-59,Medium,1.9,77,17/05/2020,Light,67
+Fade,80,Tom,Hot,Loud,Square,Serious,10,5-19,Medium,1.72,32,17/05/2020,Dark,39
+Fade,80,Tom,Sunny,Loud,Round,Relaxed,20,5-19,Short,1.65,35,17/05/2020,Light,44
+Bald,50,Leo,Sunny,Moderate,Round,Hurried,20,30-39,Medium,1.6,68,17/05/2020,Light,44
+Trim,20,Tom,Stormy,Low,Triangular,Relaxed,10,50-59,Short,1.83,83,17/05/2020,Light,32
+Mohawk,80,Ben,Hot,Loud,Oval,Serious,0,30-39,Long,1.88,69,17/05/2020,Light,55
+Panga,80,Leo,Sunny,Moderate,Square,Happy,15,5-19,Long,1.83,38,17/05/2020,Light,76
+Trim,20,Tom,Cold,Loud,Pear,Happy,0,50-59,Medium,1.86,83,17/05/2020,Dark,36
+Trim,20,Tom,Windy,Moderate,Square,Hurried,10,50-59,Short,1.83,73,17/05/2020,Light,26
+Trim,20,Tom,Hot,Moderate,Heart,Happy,0,20-29,Medium,1.7,56,17/05/2020,Dark,37
+Trim,20,Ben,Hot,Low,Triangular,Happy,15,5-19,Medium,1.83,33,17/05/2020,Dark,36
+Panga,80,Leo,Stormy,Low,Pear,Happy,10,60-69,Long,1.88,79,17/05/2020,Dark,87
+Fade,80,Tom,Humid,Loud,Triangular,Tired,20,30-39,Medium,1.83,70,18/05/2020,Dark,37
+Fade,80,Leo,Dry,Low,Triangular,Tired,20,50-59,Medium,1.55,81,18/05/2020,Dark,53
+Trim,20,Ben,Hot,Loud,Square,Tired,0,40-49,Medium,1.7,74,18/05/2020,Light,23
+Afro,70,Ben,Humid,Moderate,Round,Tired,20,20-29,Long,1.83,50,18/05/2020,Dark,51
+Fade,80,Leo,Humid,Moderate,Oval,Worried,20,20-29,Short,1.88,55,18/05/2020,Dark,40
+Mohawk,80,Ben,Humid,Loud,Square,Serious,15,5-19,Long,1.6,32,18/05/2020,Light,48
+Panga,80,Ben,Sunny,Loud,Triangular,Relaxed,10,60-69,Medium,1.65,85,18/05/2020,Dark,73
+Fade,80,Leo,Dry,Low,Triangular,Hurried,10,60-69,Medium,1.9,77,18/05/2020,Dark,48
+Bald,50,Leo,Stormy,Low,Square,Relaxed,10,40-49,Medium,1.65,70,18/05/2020,Light,58
+Afro,70,Tom,Cold,Moderate,Round,Hurried,0,30-39,Long,1.65,70,18/05/2020,Light,48
+Trim,20,Tom,Dry,Loud,Round,Tired,15,50-59,Medium,1.55,75,18/05/2020,Light,34
+Fade,80,Tom,Stormy,Low,Round,Worried,20,30-39,Medium,1.72,65,18/05/2020,Light,45
+Baby cut,60,Tom,Stormy,Low,Round,Happy,10,40-49,Short,1.88,77,18/05/2020,Light,55
+Panga,80,Ben,Dry,Moderate,Round,Serious,20,50-59,Medium,1.72,73,18/05/2020,Light,77
+Afro,70,Tom,Windy,Loud,Heart,Happy,0,60-69,Long,1.7,81,18/05/2020,Light,52
+Bald,50,Leo,Cold,Moderate,Oval,Serious,0,50-59,Medium,1.66,81,19/05/2020,Dark,54
+Bald,50,Leo,Stormy,Moderate,Square,Happy,10,5-19,Medium,1.57,36,19/05/2020,Dark,45
+Panga,80,Leo,Cold,Loud,Oval,Serious,20,20-29,Long,1.6,55,19/05/2020,Dark,81
+Panga,80,Tom,Humid,Moderate,Heart,Happy,15,60-69,Long,1.83,76,19/05/2020,Light,86
+Afro,70,Ben,Sunny,Loud,Square,Tired,15,20-29,Long,1.57,58,19/05/2020,Dark,66
+Panga,80,Ben,Stormy,Loud,Round,Hurried,0,20-29,Long,1.6,52,19/05/2020,Light,84
+Baby cut,60,Ben,Dry,Low,Oval,Serious,0,50-59,Medium,1.83,81,19/05/2020,Light,58
+Mohawk,80,Leo,Stormy,Low,Triangular,Hurried,15,50-59,Long,1.6,74,19/05/2020,Light,59
+Baby cut,60,Ben,Windy,Low,Oval,Tired,15,50-59,Short,1.57,83,19/05/2020,Dark,69
+Panga,80,Leo,Stormy,Moderate,Heart,Hurried,15,40-49,Medium,1.66,68,19/05/2020,Light,85
+Baby cut,60,Leo,Sunny,Low,Square,Happy,15,40-49,Medium,1.9,74,19/05/2020,Dark,57
+Baby cut,60,Leo,Humid,Low,Square,Hurried,15,40-49,Short,1.72,77,19/05/2020,Dark,60
+Fade,80,Tom,Hot,Moderate,Heart,Worried,20,40-49,Short,1.88,71,19/05/2020,Light,54
+Fade,80,Tom,Humid,Low,Oval,Serious,20,5-19,Short,1.65,34,19/05/2020,Dark,48
+Fade,80,Ben,Dry,Loud,Heart,Relaxed,20,30-39,Short,1.66,64,20/05/2020,Dark,36
+Afro,70,Leo,Stormy,Low,Round,Happy,10,40-49,Long,1.66,70,20/05/2020,Dark,47
+Trim,20,Ben,Stormy,Loud,Round,Tired,15,50-59,Medium,1.72,80,20/05/2020,Light,35
+Afro,70,Leo,Sunny,Loud,Round,Worried,10,60-69,Long,1.66,83,20/05/2020,Dark,65
+Mohawk,80,Ben,Hot,Loud,Square,Hurried,0,30-39,Long,1.5,64,20/05/2020,Light,62
+Panga,80,Tom,Stormy,Low,Square,Tired,15,30-39,Medium,1.65,66,20/05/2020,Dark,79
+Fade,80,Ben,Humid,Loud,Heart,Relaxed,20,60-69,Short,1.66,83,20/05/2020,Dark,34
+Panga,80,Ben,Humid,Moderate,Triangular,Serious,0,30-39,Long,1.72,62,20/05/2020,Light,74
+Fade,80,Tom,Cold,Low,Triangular,Tired,10,60-69,Short,1.9,75,20/05/2020,Light,37
+Baby cut,60,Ben,Stormy,Low,Triangular,Relaxed,10,50-59,Short,1.9,76,20/05/2020,Dark,70
+Trim,20,Tom,Hot,Loud,Oval,Serious,20,60-69,Medium,1.86,83,21/05/2020,Dark,27
+Bald,50,Leo,Sunny,Moderate,Pear,Hurried,10,20-29,Short,1.55,53,21/05/2020,Light,46
+Fade,80,Ben,Windy,Low,Pear,Tired,0,20-29,Medium,1.66,59,21/05/2020,Light,37
+Panga,80,Ben,Windy,Low,Square,Worried,15,30-39,Medium,1.66,63,21/05/2020,Dark,72
+Bald,50,Leo,Hot,Moderate,Oval,Serious,10,60-69,Medium,1.86,75,21/05/2020,Light,44
+Mohawk,80,Leo,Hot,Low,Round,Serious,15,40-49,Long,1.65,77,21/05/2020,Light,52
+Mohawk,80,Leo,Cold,Low,Square,Tired,0,40-49,Long,1.65,78,21/05/2020,Light,61
+Afro,70,Leo,Humid,Low,Oval,Tired,15,40-49,Long,1.7,73,21/05/2020,Dark,57
+Fade,80,Tom,Windy,Moderate,Oval,Hurried,20,30-39,Short,1.72,68,21/05/2020,Dark,36
+Panga,80,Ben,Windy,Loud,Triangular,Worried,20,20-29,Long,1.86,59,21/05/2020,Light,81
+Fade,80,Leo,Sunny,Moderate,Square,Serious,10,40-49,Medium,1.7,72,21/05/2020,Light,38
+Mohawk,80,Tom,Cold,Low,Triangular,Serious,10,30-39,Long,1.7,71,22/05/2020,Light,42
+Mohawk,80,Tom,Dry,Loud,Heart,Happy,15,30-39,Long,1.57,66,22/05/2020,Light,57
+Baby cut,60,Tom,Hot,Loud,Oval,Relaxed,10,50-59,Medium,1.7,78,22/05/2020,Dark,58
+Baby cut,60,Tom,Windy,Low,Round,Relaxed,15,30-39,Medium,1.86,69,22/05/2020,Dark,69
+Trim,20,Leo,Stormy,Low,Heart,Worried,0,50-59,Short,1.66,81,22/05/2020,Dark,22
+Baby cut,60,Leo,Sunny,Moderate,Oval,Serious,10,60-69,Short,1.57,77,22/05/2020,Light,67
+Panga,80,Leo,Cold,Moderate,Round,Tired,15,40-49,Long,1.5,74,22/05/2020,Light,71
+Panga,80,Ben,Windy,Loud,Oval,Serious,20,5-19,Long,1.86,32,22/05/2020,Dark,76
+Fade,80,Leo,Dry,Moderate,Pear,Tired,15,30-39,Medium,1.83,69,22/05/2020,Light,49
+Baby cut,60,Ben,Cold,Low,Pear,Tired,10,20-29,Short,1.86,55,22/05/2020,Dark,58
+Afro,70,Tom,Sunny,Low,Pear,Happy,20,60-69,Long,1.65,77,22/05/2020,Dark,48
+Fade,80,Tom,Sunny,Loud,Square,Relaxed,20,20-29,Short,1.55,53,22/05/2020,Light,47
+Trim,20,Ben,Cold,Moderate,Round,Hurried,0,40-49,Medium,1.57,75,22/05/2020,Dark,40
+Bald,50,Tom,Windy,Loud,Heart,Worried,0,50-59,Short,1.6,81,22/05/2020,Light,42
+Fade,80,Leo,Humid,Low,Triangular,Tired,10,30-39,Medium,1.5,64,22/05/2020,Dark,54
+Fade,80,Leo,Sunny,Moderate,Oval,Relaxed,15,30-39,Short,1.55,67,22/05/2020,Light,44
+Bald,50,Tom,Windy,Low,Round,Serious,20,20-29,Short,1.57,54,22/05/2020,Light,50
+Baby cut,60,Ben,Cold,Loud,Triangular,Hurried,20,5-19,Medium,1.55,35,22/05/2020,Dark,61
+Mohawk,80,Tom,Sunny,Low,Pear,Relaxed,0,50-59,Long,1.5,80,23/05/2020,Dark,49
+Mohawk,80,Leo,Cold,Loud,Oval,Worried,0,60-69,Long,1.9,82,23/05/2020,Dark,54
+Mohawk,80,Ben,Hot,Low,Oval,Serious,0,50-59,Long,1.9,73,23/05/2020,Light,61
+Mohawk,80,Tom,Cold,Low,Pear,Relaxed,15,20-29,Long,1.5,53,23/05/2020,Light,54
+Afro,70,Tom,Stormy,Moderate,Pear,Worried,20,5-19,Long,1.72,29,23/05/2020,Light,61
+Fade,80,Ben,Stormy,Moderate,Round,Serious,0,20-29,Short,1.6,56,23/05/2020,Light,43
+Mohawk,80,Ben,Hot,Low,Triangular,Serious,10,60-69,Long,1.88,83,23/05/2020,Dark,42
+Panga,80,Leo,Dry,Loud,Pear,Tired,20,30-39,Medium,1.86,62,23/05/2020,Dark,76
+Mohawk,80,Leo,Hot,Loud,Pear,Tired,20,5-19,Long,1.7,35,23/05/2020,Light,61
+Trim,20,Tom,Humid,Moderate,Pear,Relaxed,10,5-19,Medium,1.7,29,23/05/2020,Dark,20
+Baby cut,60,Leo,Stormy,Loud,Round,Happy,10,60-69,Medium,1.65,79,23/05/2020,Dark,67
+Fade,80,Tom,Stormy,Loud,Square,Hurried,15,5-19,Short,1.66,34,23/05/2020,Dark,46
+Afro,70,Ben,Dry,Moderate,Pear,Relaxed,0,60-69,Long,1.5,83,23/05/2020,Light,65
+Trim,20,Leo,Cold,Low,Round,Relaxed,0,60-69,Medium,1.9,80,23/05/2020,Light,20
+Panga,80,Leo,Stormy,Loud,Round,Happy,0,50-59,Medium,1.86,82,23/05/2020,Dark,90
+Baby cut,60,Ben,Dry,Moderate,Oval,Happy,20,30-39,Medium,1.72,69,23/05/2020,Dark,50
+Afro,70,Leo,Sunny,Loud,Round,Serious,20,20-29,Long,1.57,56,23/05/2020,Dark,59
+Panga,80,Tom,Stormy,Low,Triangular,Hurried,10,20-29,Long,1.72,57,23/05/2020,Dark,85
+Mohawk,80,Ben,Cold,Loud,Heart,Tired,10,5-19,Long,1.65,37,23/05/2020,Dark,58
+Bald,50,Ben,Sunny,Loud,Round,Worried,10,40-49,Medium,1.6,72,23/05/2020,Light,53
+Mohawk,80,Ben,Sunny,Low,Triangular,Relaxed,15,50-59,Long,1.7,75,24/05/2020,Dark,44
+Bald,50,Leo,Hot,Loud,Oval,Happy,15,5-19,Medium,1.5,29,24/05/2020,Dark,47
+Afro,70,Ben,Hot,Loud,Triangular,Happy,15,50-59,Long,1.86,75,24/05/2020,Dark,50
+Baby cut,60,Tom,Cold,Loud,Square,Hurried,20,30-39,Medium,1.66,72,24/05/2020,Dark,66
+Fade,80,Leo,Humid,Low,Pear,Relaxed,15,30-39,Medium,1.83,66,24/05/2020,Light,53
+Afro,70,Tom,Cold,Moderate,Round,Hurried,15,30-39,Long,1.66,64,24/05/2020,Light,56
+Fade,80,Tom,Hot,Moderate,Triangular,Happy,10,60-69,Short,1.57,81,24/05/2020,Light,54
+Panga,80,Leo,Stormy,Low,Oval,Serious,10,40-49,Medium,1.57,78,24/05/2020,Light,70
+Panga,80,Ben,Windy,Loud,Pear,Worried,0,40-49,Long,1.57,74,24/05/2020,Dark,88
+Fade,80,Leo,Sunny,Loud,Round,Happy,15,40-49,Short,1.55,75,24/05/2020,Light,40
+Fade,80,Tom,Stormy,Loud,Round,Tired,15,30-39,Medium,1.66,71,24/05/2020,Dark,47
+Baby cut,60,Tom,Humid,Moderate,Square,Tired,20,40-49,Medium,1.83,75,24/05/2020,Dark,68
+Fade,80,Ben,Sunny,Loud,Square,Happy,10,5-19,Short,1.88,30,24/05/2020,Dark,37
+Fade,80,Leo,Hot,Loud,Round,Worried,15,50-59,Short,1.7,83,25/05/2020,Dark,46
+Baby cut,60,Ben,Dry,Low,Pear,Relaxed,10,5-19,Medium,1.6,36,25/05/2020,Dark,52
+Afro,70,Ben,Dry,Moderate,Oval,Serious,10,50-59,Long,1.86,79,25/05/2020,Dark,66
+Trim,20,Ben,Sunny,Loud,Triangular,Serious,0,50-59,Medium,1.86,73,25/05/2020,Light,30
+Fade,80,Leo,Humid,Moderate,Oval,Tired,15,20-29,Short,1.55,50,25/05/2020,Dark,35
+Baby cut,60,Leo,Humid,Moderate,Oval,Happy,10,50-59,Short,1.72,74,25/05/2020,Light,70
+Trim,20,Leo,Sunny,Loud,Square,Hurried,0,5-19,Medium,1.6,36,25/05/2020,Dark,24
+Panga,80,Leo,Dry,Low,Triangular,Hurried,10,20-29,Medium,1.86,57,25/05/2020,Light,76
+Baby cut,60,Ben,Cold,Moderate,Oval,Worried,10,30-39,Short,1.65,71,25/05/2020,Light,61
+Bald,50,Tom,Dry,Low,Triangular,Happy,20,40-49,Short,1.88,72,25/05/2020,Light,46
+Panga,80,Ben,Windy,Low,Oval,Serious,15,40-49,Medium,1.88,78,25/05/2020,Light,73
+Panga,80,Leo,Humid,Low,Pear,Happy,20,20-29,Long,1.55,55,25/05/2020,Dark,85
+Afro,70,Leo,Stormy,Loud,Pear,Relaxed,20,30-39,Long,1.88,71,25/05/2020,Light,65
+Afro,70,Leo,Hot,Moderate,Heart,Hurried,15,60-69,Long,1.57,77,25/05/2020,Dark,54
+Mohawk,80,Tom,Cold,Low,Heart,Serious,0,60-69,Long,1.72,78,25/05/2020,Light,49
+Afro,70,Tom,Cold,Low,Pear,Worried,15,20-29,Long,1.57,51,25/05/2020,Light,51
+Bald,50,Leo,Hot,Loud,Round,Hurried,15,60-69,Short,1.72,83,25/05/2020,Light,58
+Trim,20,Tom,Cold,Low,Pear,Relaxed,10,5-19,Long,1.55,29,26/05/2020,Dark,39
+Mohawk,80,Leo,Windy,Low,Pear,Relaxed,15,60-69,Long,1.6,81,26/05/2020,Light,58
+Trim,20,Leo,Sunny,Moderate,Oval,Tired,0,20-29,Short,1.72,58,26/05/2020,Light,37
+Fade,80,Leo,Stormy,Low,Oval,Happy,0,50-59,Medium,1.72,80,26/05/2020,Dark,39
+Fade,80,Ben,Stormy,Loud,Triangular,Serious,15,20-29,Short,1.66,51,26/05/2020,Light,48
+Trim,20,Ben,Dry,Low,Triangular,Serious,20,40-49,Long,1.66,71,26/05/2020,Light,38
+Trim,20,Tom,Cold,Moderate,Square,Serious,20,40-49,Medium,1.55,70,26/05/2020,Dark,39
+Panga,80,Tom,Cold,Moderate,Square,Relaxed,0,20-29,Medium,1.5,58,26/05/2020,Light,88
+Fade,80,Tom,Windy,Loud,Round,Tired,20,20-29,Medium,1.72,59,26/05/2020,Light,54
+Baby cut,60,Leo,Dry,Moderate,Round,Tired,10,50-59,Medium,1.66,75,26/05/2020,Light,58
+Trim,20,Ben,Stormy,Loud,Heart,Hurried,20,40-49,Medium,1.72,74,26/05/2020,Dark,22
+Afro,70,Leo,Cold,Low,Triangular,Happy,10,20-29,Long,1.9,60,26/05/2020,Light,53
+Mohawk,80,Leo,Windy,Loud,Round,Tired,0,30-39,Long,1.6,69,26/05/2020,Dark,52
+Afro,70,Tom,Sunny,Moderate,Heart,Serious,10,50-59,Long,1.6,81,26/05/2020,Dark,57
+Baby cut,60,Tom,Cold,Loud,Oval,Worried,20,50-59,Short,1.83,81,26/05/2020,Light,56
+Baby cut,60,Tom,Hot,Loud,Heart,Relaxed,15,30-39,Medium,1.6,65,26/05/2020,Dark,56
+Trim,20,Tom,Hot,Moderate,Round,Relaxed,0,60-69,Short,1.6,83,26/05/2020,Dark,28
+Panga,80,Leo,Stormy,Low,Oval,Relaxed,10,30-39,Long,1.65,68,26/05/2020,Light,88
+Fade,80,Tom,Stormy,Loud,Pear,Serious,0,5-19,Medium,1.88,35,26/05/2020,Light,34
+Panga,80,Leo,Dry,Low,Pear,Tired,0,30-39,Long,1.57,66,27/05/2020,Dark,73
+Fade,80,Tom,Dry,Loud,Pear,Worried,10,50-59,Short,1.6,74,27/05/2020,Light,36
+Afro,70,Ben,Hot,Moderate,Square,Serious,15,20-29,Long,1.72,54,27/05/2020,Light,52
+Fade,80,Ben,Humid,Moderate,Oval,Relaxed,0,20-29,Medium,1.55,57,27/05/2020,Light,53
+Bald,50,Ben,Sunny,Moderate,Oval,Relaxed,10,50-59,Short,1.5,79,27/05/2020,Dark,49
+Fade,80,Ben,Dry,Loud,Heart,Hurried,0,60-69,Medium,1.72,79,27/05/2020,Light,47
+Baby cut,60,Tom,Cold,Low,Pear,Worried,15,5-19,Short,1.7,29,27/05/2020,Dark,58
+Mohawk,80,Leo,Windy,Moderate,Heart,Happy,10,40-49,Long,1.88,78,27/05/2020,Dark,60
+Baby cut,60,Leo,Dry,Loud,Round,Relaxed,15,5-19,Medium,1.65,32,27/05/2020,Dark,63
+Fade,80,Tom,Windy,Moderate,Square,Serious,10,50-59,Short,1.9,76,27/05/2020,Dark,35
+Afro,70,Ben,Sunny,Loud,Square,Happy,20,60-69,Long,1.66,83,27/05/2020,Light,56
+Fade,80,Leo,Hot,Loud,Round,Worried,10,40-49,Short,1.55,75,27/05/2020,Dark,49
+Panga,80,Tom,Humid,Low,Round,Serious,10,5-19,Medium,1.6,29,27/05/2020,Light,79
+Fade,80,Leo,Stormy,Moderate,Triangular,Tired,10,20-29,Short,1.5,60,27/05/2020,Dark,41
+Fade,80,Leo,Windy,Loud,Oval,Serious,20,20-29,Short,1.65,58,27/05/2020,Light,47
+Bald,50,Leo,Windy,Loud,Triangular,Serious,0,40-49,Medium,1.66,76,28/05/2020,Dark,50
+Mohawk,80,Ben,Sunny,Moderate,Round,Relaxed,0,5-19,Long,1.86,37,28/05/2020,Dark,48
+Afro,70,Leo,Sunny,Loud,Pear,Hurried,20,20-29,Long,1.65,50,28/05/2020,Dark,49
+Mohawk,80,Ben,Sunny,Low,Oval,Worried,10,40-49,Long,1.65,74,28/05/2020,Dark,47
+Panga,80,Leo,Windy,Low,Square,Relaxed,20,50-59,Medium,1.65,83,28/05/2020,Dark,82
+Afro,70,Ben,Dry,Loud,Heart,Worried,10,50-59,Long,1.9,75,28/05/2020,Light,53
+Panga,80,Tom,Stormy,Low,Oval,Relaxed,15,20-29,Medium,1.7,50,28/05/2020,Light,70
+Bald,50,Tom,Humid,Moderate,Heart,Relaxed,0,20-29,Medium,1.65,55,28/05/2020,Light,47
+Fade,80,Tom,Windy,Moderate,Oval,Tired,20,20-29,Short,1.83,60,28/05/2020,Dark,51
+Afro,70,Leo,Dry,Low,Square,Worried,10,40-49,Long,1.7,73,28/05/2020,Dark,49
+Mohawk,80,Leo,Sunny,Moderate,Square,Tired,20,60-69,Long,1.9,76,28/05/2020,Dark,57
+Bald,50,Tom,Dry,Loud,Round,Tired,15,30-39,Medium,1.65,67,28/05/2020,Dark,55
+Baby cut,60,Tom,Dry,Moderate,Square,Worried,0,50-59,Short,1.7,83,28/05/2020,Light,50
+Fade,80,Tom,Cold,Loud,Heart,Happy,10,5-19,Short,1.57,33,29/05/2020,Dark,52
+Trim,20,Leo,Sunny,Low,Oval,Worried,15,40-49,Short,1.5,72,29/05/2020,Light,24
+Afro,70,Leo,Stormy,Loud,Oval,Hurried,10,30-39,Long,1.66,62,29/05/2020,Dark,50
+Panga,80,Ben,Dry,Low,Round,Hurried,10,50-59,Medium,1.57,77,29/05/2020,Light,84
+Trim,20,Leo,Stormy,Low,Round,Worried,20,20-29,Long,1.9,53,29/05/2020,Light,35
+Trim,20,Ben,Hot,Loud,Oval,Serious,15,20-29,Long,1.66,50,29/05/2020,Light,38
+Mohawk,80,Leo,Stormy,Low,Round,Serious,0,40-49,Long,1.7,73,29/05/2020,Light,43
+Fade,80,Leo,Dry,Loud,Heart,Happy,20,20-29,Short,1.72,55,29/05/2020,Dark,34
+Fade,80,Leo,Sunny,Moderate,Pear,Hurried,20,30-39,Medium,1.55,66,29/05/2020,Dark,50
+Bald,50,Tom,Cold,Loud,Pear,Relaxed,0,60-69,Medium,1.86,84,29/05/2020,Dark,55
+Baby cut,60,Leo,Stormy,Low,Round,Hurried,0,30-39,Short,1.66,62,29/05/2020,Dark,62
+Fade,80,Leo,Windy,Moderate,Square,Happy,0,50-59,Medium,1.72,73,29/05/2020,Light,53
+Baby cut,60,Leo,Humid,Loud,Square,Worried,20,20-29,Short,1.83,53,29/05/2020,Light,70
+Panga,80,Tom,Dry,Low,Round,Hurried,10,20-29,Long,1.65,59,29/05/2020,Dark,71
+Baby cut,60,Ben,Dry,Low,Pear,Worried,15,5-19,Medium,1.9,38,29/05/2020,Light,51
+Fade,80,Tom,Cold,Low,Heart,Tired,15,60-69,Medium,1.66,84,29/05/2020,Dark,35
+Mohawk,80,Ben,Windy,Low,Pear,Worried,15,5-19,Long,1.86,32,29/05/2020,Light,47
+Mohawk,80,Ben,Dry,Low,Square,Tired,10,50-59,Long,1.7,83,30/05/2020,Dark,54
+Mohawk,80,Ben,Dry,Low,Triangular,Worried,10,5-19,Long,1.6,32,30/05/2020,Dark,56
+Trim,20,Tom,Cold,Loud,Round,Tired,20,20-29,Long,1.66,55,30/05/2020,Dark,38
+Bald,50,Tom,Stormy,Low,Heart,Tired,10,60-69,Medium,1.7,75,30/05/2020,Light,53
+Afro,70,Tom,Hot,Moderate,Heart,Serious,10,30-39,Long,1.66,66,30/05/2020,Light,48
+Baby cut,60,Tom,Humid,Loud,Heart,Relaxed,15,20-29,Medium,1.55,59,30/05/2020,Light,54
+Panga,80,Leo,Dry,Moderate,Round,Tired,0,20-29,Medium,1.7,55,30/05/2020,Light,82
+Mohawk,80,Ben,Dry,Loud,Triangular,Hurried,15,30-39,Long,1.66,65,30/05/2020,Light,52
+Mohawk,80,Leo,Sunny,Loud,Round,Relaxed,15,60-69,Long,1.65,80,30/05/2020,Dark,60
+Bald,50,Leo,Windy,Low,Round,Worried,10,30-39,Medium,1.7,72,30/05/2020,Light,45
+Trim,20,Leo,Humid,Moderate,Pear,Happy,10,5-19,Short,1.7,33,30/05/2020,Light,40
+Baby cut,60,Leo,Humid,Loud,Pear,Tired,10,30-39,Short,1.9,72,30/05/2020,Dark,63
+Fade,80,Leo,Sunny,Loud,Round,Happy,20,60-69,Short,1.86,80,30/05/2020,Dark,37
+Mohawk,80,Leo,Windy,Loud,Pear,Tired,0,40-49,Long,1.88,70,30/05/2020,Dark,61
+Trim,20,Leo,Dry,Moderate,Round,Relaxed,15,5-19,Short,1.55,33,30/05/2020,Dark,28
+Panga,80,Tom,Stormy,Low,Oval,Relaxed,15,60-69,Medium,1.83,78,30/05/2020,Dark,86
+Mohawk,80,Leo,Windy,Loud,Pear,Tired,10,20-29,Long,1.88,52,30/05/2020,Dark,50
+Fade,80,Ben,Hot,Low,Pear,Serious,20,30-39,Medium,1.55,67,30/05/2020,Dark,54
+Trim,20,Tom,Humid,Low,Square,Tired,0,20-29,Long,1.88,55,31/05/2020,Dark,23
+Afro,70,Leo,Stormy,Loud,Square,Happy,20,60-69,Long,1.83,85,31/05/2020,Light,56
+Mohawk,80,Ben,Hot,Low,Heart,Tired,10,5-19,Long,1.83,29,31/05/2020,Dark,45
+Afro,70,Leo,Humid,Loud,Heart,Happy,0,60-69,Long,1.66,81,31/05/2020,Dark,57
+Mohawk,80,Leo,Dry,Low,Square,Relaxed,20,40-49,Long,1.6,76,31/05/2020,Dark,47
+Trim,20,Tom,Sunny,Moderate,Square,Worried,15,40-49,Long,1.88,72,31/05/2020,Light,21
+Baby cut,60,Ben,Humid,Moderate,Heart,Relaxed,15,50-59,Medium,1.88,78,31/05/2020,Dark,64
+Panga,80,Leo,Sunny,Low,Pear,Hurried,20,40-49,Medium,1.66,77,31/05/2020,Dark,83
+Trim,20,Tom,Sunny,Moderate,Heart,Happy,15,40-49,Medium,1.9,72,31/05/2020,Dark,31
+Mohawk,80,Ben,Dry,Moderate,Square,Worried,0,50-59,Long,1.65,77,31/05/2020,Light,51
+Fade,80,Ben,Hot,Moderate,Square,Tired,20,60-69,Short,1.57,77,1/06/2020,Dark,39
+Panga,80,Tom,Windy,Loud,Heart,Happy,15,60-69,Long,1.57,80,1/06/2020,Light,82
+Trim,20,Leo,Stormy,Moderate,Oval,Serious,0,5-19,Medium,1.57,29,1/06/2020,Dark,24
+Baby cut,60,Tom,Hot,Low,Heart,Hurried,10,60-69,Medium,1.57,80,1/06/2020,Dark,63
+Bald,50,Tom,Hot,Low,Heart,Tired,10,30-39,Short,1.7,66,1/06/2020,Light,45
+Panga,80,Tom,Windy,Moderate,Pear,Happy,10,60-69,Medium,1.7,83,1/06/2020,Dark,81
+Fade,80,Tom,Hot,Low,Square,Hurried,10,60-69,Medium,1.6,85,1/06/2020,Dark,54
+Afro,70,Ben,Windy,Low,Pear,Relaxed,0,60-69,Long,1.6,80,1/06/2020,Light,58
+Afro,70,Ben,Hot,Low,Pear,Tired,20,20-29,Long,1.6,60,1/06/2020,Light,51
+Trim,20,Leo,Humid,Loud,Heart,Hurried,0,40-49,Medium,1.55,68,1/06/2020,Dark,21
+Panga,80,Tom,Sunny,Moderate,Oval,Worried,10,50-59,Long,1.83,77,1/06/2020,Dark,79
+Bald,50,Tom,Hot,Low,Square,Tired,10,20-29,Medium,1.86,58,1/06/2020,Light,44
+Baby cut,60,Leo,Sunny,Low,Round,Relaxed,0,5-19,Medium,1.65,30,1/06/2020,Dark,64
+Panga,80,Leo,Hot,Moderate,Square,Hurried,20,5-19,Medium,1.86,35,1/06/2020,Light,86
+Baby cut,60,Ben,Sunny,Low,Square,Tired,20,20-29,Short,1.57,50,1/06/2020,Dark,52
+Mohawk,80,Tom,Stormy,Loud,Triangular,Happy,10,30-39,Long,1.83,63,1/06/2020,Dark,57
+Panga,80,Tom,Hot,Moderate,Square,Serious,0,50-59,Long,1.55,83,2/06/2020,Dark,76
+Mohawk,80,Leo,Dry,Loud,Square,Happy,10,60-69,Long,1.5,80,2/06/2020,Dark,45
+Bald,50,Tom,Windy,Low,Triangular,Happy,20,30-39,Short,1.88,62,2/06/2020,Light,60
+Trim,20,Tom,Cold,Moderate,Pear,Worried,20,5-19,Long,1.5,29,2/06/2020,Light,27
+Mohawk,80,Ben,Sunny,Moderate,Round,Tired,0,50-59,Long,1.65,80,2/06/2020,Light,42
+Baby cut,60,Ben,Cold,Moderate,Pear,Tired,20,20-29,Short,1.66,58,2/06/2020,Light,58
+Fade,80,Leo,Dry,Low,Round,Tired,15,60-69,Short,1.83,76,2/06/2020,Light,42
+Panga,80,Tom,Cold,Low,Triangular,Worried,20,20-29,Long,1.6,57,2/06/2020,Light,88
+Trim,20,Leo,Hot,Low,Square,Hurried,15,50-59,Long,1.66,76,2/06/2020,Light,30
+Trim,20,Ben,Hot,Moderate,Oval,Relaxed,0,60-69,Medium,1.9,81,2/06/2020,Light,20
+Panga,80,Ben,Stormy,Moderate,Heart,Serious,15,50-59,Long,1.66,81,2/06/2020,Light,86
+Bald,50,Leo,Sunny,Low,Oval,Happy,10,60-69,Medium,1.66,75,3/06/2020,Light,47
+Baby cut,60,Tom,Windy,Low,Oval,Relaxed,0,60-69,Medium,1.6,80,3/06/2020,Light,59
+Afro,70,Leo,Hot,Low,Triangular,Hurried,15,40-49,Long,1.83,72,3/06/2020,Light,61
+Panga,80,Leo,Windy,Moderate,Triangular,Happy,0,20-29,Long,1.57,59,3/06/2020,Light,81
+Mohawk,80,Tom,Humid,Moderate,Oval,Happy,15,20-29,Long,1.65,58,3/06/2020,Dark,44
+Fade,80,Leo,Hot,Loud,Pear,Serious,10,30-39,Medium,1.86,72,3/06/2020,Light,50
+Bald,50,Tom,Dry,Moderate,Heart,Serious,10,40-49,Short,1.65,75,3/06/2020,Dark,40
+Baby cut,60,Ben,Humid,Moderate,Heart,Happy,10,20-29,Medium,1.86,51,3/06/2020,Light,50
+Fade,80,Leo,Cold,Low,Round,Relaxed,10,40-49,Medium,1.66,73,3/06/2020,Dark,45
+Baby cut,60,Ben,Sunny,Low,Square,Happy,0,5-19,Medium,1.83,33,3/06/2020,Dark,62
+Afro,70,Ben,Stormy,Moderate,Square,Worried,0,40-49,Long,1.86,76,3/06/2020,Dark,53
+Mohawk,80,Leo,Humid,Moderate,Pear,Relaxed,0,50-59,Long,1.66,81,4/06/2020,Light,57
+Baby cut,60,Tom,Windy,Low,Pear,Worried,15,60-69,Medium,1.6,82,4/06/2020,Light,61
+Trim,20,Leo,Sunny,Loud,Pear,Happy,0,5-19,Long,1.65,30,4/06/2020,Light,40
+Panga,80,Leo,Hot,Low,Round,Hurried,10,20-29,Medium,1.57,59,4/06/2020,Light,88
+Trim,20,Tom,Humid,Loud,Oval,Worried,15,5-19,Short,1.86,39,4/06/2020,Light,35
+Afro,70,Leo,Windy,Low,Oval,Relaxed,20,30-39,Long,1.7,66,4/06/2020,Light,54
+Fade,80,Tom,Dry,Low,Triangular,Tired,20,60-69,Medium,1.5,85,4/06/2020,Light,35
+Baby cut,60,Ben,Sunny,Loud,Square,Happy,15,40-49,Medium,1.86,70,4/06/2020,Dark,69
+Afro,70,Ben,Humid,Low,Triangular,Serious,10,50-59,Long,1.7,74,4/06/2020,Dark,47
+Afro,70,Tom,Windy,Loud,Pear,Hurried,20,5-19,Long,1.6,29,4/06/2020,Light,55
+Trim,20,Leo,Sunny,Moderate,Triangular,Hurried,0,40-49,Short,1.83,68,4/06/2020,Light,26
+Trim,20,Leo,Dry,Low,Square,Serious,0,40-49,Long,1.9,68,4/06/2020,Dark,26
+Fade,80,Ben,Stormy,Loud,Pear,Hurried,10,20-29,Short,1.9,51,4/06/2020,Light,34
+Baby cut,60,Ben,Humid,Moderate,Round,Hurried,20,5-19,Medium,1.88,32,4/06/2020,Light,68
+Trim,20,Leo,Sunny,Low,Pear,Worried,10,30-39,Short,1.5,63,4/06/2020,Light,30
+Afro,70,Ben,Cold,Loud,Heart,Hurried,10,60-69,Long,1.72,81,4/06/2020,Dark,46
+Trim,20,Leo,Humid,Low,Pear,Tired,10,20-29,Medium,1.88,55,4/06/2020,Light,38
+Fade,80,Ben,Humid,Loud,Triangular,Worried,20,50-59,Short,1.7,83,4/06/2020,Light,54
+Trim,20,Ben,Windy,Moderate,Triangular,Worried,15,5-19,Long,1.72,35,5/06/2020,Light,35
+Bald,50,Ben,Stormy,Moderate,Square,Worried,15,5-19,Short,1.65,32,5/06/2020,Dark,54
+Trim,20,Tom,Windy,Low,Heart,Happy,0,60-69,Long,1.5,83,5/06/2020,Light,20
+Afro,70,Tom,Dry,Loud,Round,Tired,10,5-19,Long,1.72,30,5/06/2020,Dark,53
+Fade,80,Ben,Hot,Loud,Round,Happy,20,5-19,Short,1.55,32,5/06/2020,Dark,54
+Panga,80,Ben,Windy,Loud,Triangular,Relaxed,20,30-39,Long,1.65,67,5/06/2020,Dark,76
+Baby cut,60,Tom,Windy,Low,Square,Relaxed,20,30-39,Medium,1.83,63,5/06/2020,Light,67
+Fade,80,Leo,Hot,Loud,Round,Tired,10,40-49,Medium,1.83,76,5/06/2020,Light,52
+Fade,80,Ben,Sunny,Low,Square,Serious,15,5-19,Short,1.88,39,5/06/2020,Light,51
+Trim,20,Tom,Cold,Low,Oval,Happy,0,40-49,Long,1.5,70,5/06/2020,Dark,35
+Bald,50,Leo,Sunny,Low,Round,Worried,0,30-39,Short,1.55,69,5/06/2020,Dark,58
+Baby cut,60,Ben,Dry,Loud,Square,Happy,20,30-39,Short,1.6,64,5/06/2020,Dark,64
+Afro,70,Ben,Cold,Low,Heart,Hurried,20,40-49,Long,1.55,77,5/06/2020,Light,66
+Trim,20,Ben,Hot,Low,Triangular,Serious,0,20-29,Short,1.57,58,5/06/2020,Light,36
+Panga,80,Ben,Humid,Loud,Oval,Tired,20,60-69,Long,1.5,81,5/06/2020,Light,76
+Fade,80,Leo,Sunny,Low,Round,Relaxed,15,30-39,Short,1.5,65,5/06/2020,Light,44
+Bald,50,Tom,Humid,Low,Triangular,Serious,10,20-29,Medium,1.72,55,5/06/2020,Light,47
+Panga,80,Leo,Dry,Loud,Pear,Hurried,20,5-19,Medium,1.88,38,5/06/2020,Dark,86
+Fade,80,Ben,Windy,Low,Oval,Worried,0,20-29,Short,1.72,59,5/06/2020,Dark,48
+Trim,20,Ben,Stormy,Loud,Heart,Tired,15,40-49,Medium,1.5,68,6/06/2020,Light,26
+Panga,80,Ben,Stormy,Low,Round,Hurried,15,5-19,Medium,1.66,31,6/06/2020,Dark,84
+Mohawk,80,Leo,Windy,Low,Triangular,Happy,0,60-69,Long,1.72,84,6/06/2020,Dark,49
+Afro,70,Tom,Windy,Moderate,Triangular,Hurried,10,30-39,Long,1.88,67,6/06/2020,Dark,49
+Fade,80,Tom,Stormy,Moderate,Triangular,Tired,20,60-69,Medium,1.7,77,6/06/2020,Dark,46
+Afro,70,Tom,Cold,Low,Round,Relaxed,10,40-49,Long,1.65,77,6/06/2020,Dark,51
+Bald,50,Tom,Hot,Low,Heart,Tired,0,5-19,Short,1.55,33,6/06/2020,Light,57
+Afro,70,Ben,Dry,Loud,Square,Serious,20,50-59,Long,1.66,79,6/06/2020,Light,62
+Afro,70,Tom,Sunny,Loud,Pear,Relaxed,10,20-29,Long,1.72,51,6/06/2020,Dark,56
+Bald,50,Tom,Humid,Loud,Square,Hurried,10,40-49,Medium,1.5,77,6/06/2020,Dark,40
+Mohawk,80,Leo,Sunny,Loud,Heart,Hurried,15,20-29,Long,1.83,60,6/06/2020,Light,49
+Mohawk,80,Ben,Dry,Low,Heart,Relaxed,15,20-29,Long,1.57,54,6/06/2020,Light,47
+Bald,50,Leo,Hot,Moderate,Pear,Happy,20,50-59,Medium,1.65,81,6/06/2020,Dark,60
+Fade,80,Ben,Sunny,Loud,Heart,Tired,15,60-69,Short,1.6,85,6/06/2020,Light,52
+Baby cut,60,Tom,Humid,Loud,Oval,Happy,15,40-49,Medium,1.83,70,6/06/2020,Dark,67
+Mohawk,80,Ben,Humid,Loud,Pear,Happy,0,60-69,Long,1.57,85,6/06/2020,Light,58
+Afro,70,Leo,Sunny,Loud,Pear,Relaxed,15,5-19,Long,1.86,31,6/06/2020,Light,57
+Bald,50,Leo,Cold,Low,Oval,Tired,20,40-49,Medium,1.83,73,6/06/2020,Light,54
+Fade,80,Ben,Cold,Loud,Round,Hurried,0,30-39,Short,1.86,67,6/06/2020,Dark,53
+Panga,80,Ben,Hot,Moderate,Oval,Serious,10,40-49,Medium,1.9,72,7/06/2020,Light,79
+Panga,80,Leo,Dry,Low,Square,Hurried,0,50-59,Long,1.86,83,7/06/2020,Dark,87
+Trim,20,Leo,Dry,Loud,Square,Hurried,0,20-29,Short,1.7,60,7/06/2020,Light,22
+Panga,80,Tom,Hot,Loud,Pear,Hurried,0,40-49,Long,1.88,69,7/06/2020,Dark,70
+Afro,70,Tom,Hot,Low,Heart,Worried,10,30-39,Long,1.66,72,7/06/2020,Light,59
+Afro,70,Leo,Cold,Loud,Pear,Relaxed,15,5-19,Long,1.88,38,7/06/2020,Light,54
+Bald,50,Leo,Sunny,Moderate,Round,Happy,15,60-69,Short,1.66,79,7/06/2020,Light,58
+Baby cut,60,Tom,Windy,Loud,Square,Happy,10,40-49,Short,1.9,76,7/06/2020,Dark,58
+Bald,50,Leo,Windy,Moderate,Round,Tired,10,60-69,Short,1.86,84,7/06/2020,Dark,56
+Bald,50,Ben,Windy,Low,Pear,Hurried,15,20-29,Medium,1.66,58,7/06/2020,Dark,45
+Trim,20,Tom,Cold,Moderate,Square,Serious,0,20-29,Short,1.66,51,7/06/2020,Light,28
+Trim,20,Ben,Hot,Moderate,Triangular,Worried,20,60-69,Short,1.55,81,7/06/2020,Dark,25
+Mohawk,80,Leo,Sunny,Moderate,Oval,Serious,20,50-59,Long,1.66,75,7/06/2020,Light,55
+Panga,80,Ben,Humid,Low,Oval,Relaxed,0,5-19,Medium,1.65,33,7/06/2020,Dark,74
+Panga,80,Tom,Dry,Moderate,Square,Hurried,0,5-19,Long,1.6,38,7/06/2020,Light,81
+Bald,50,Tom,Dry,Low,Heart,Tired,10,30-39,Medium,1.86,70,7/06/2020,Light,43
+Mohawk,80,Tom,Windy,Low,Triangular,Relaxed,0,50-59,Long,1.72,73,7/06/2020,Light,46
+Trim,20,Ben,Windy,Moderate,Pear,Happy,10,5-19,Medium,1.72,31,7/06/2020,Dark,34
+Bald,50,Tom,Hot,Moderate,Pear,Relaxed,20,30-39,Medium,1.6,72,8/06/2020,Dark,43
+Mohawk,80,Leo,Sunny,Loud,Round,Hurried,10,40-49,Long,1.57,70,8/06/2020,Light,44
+Trim,20,Leo,Stormy,Loud,Round,Happy,0,40-49,Medium,1.88,77,8/06/2020,Dark,27
+Baby cut,60,Leo,Windy,Loud,Square,Hurried,15,40-49,Medium,1.55,75,8/06/2020,Light,68
+Mohawk,80,Leo,Hot,Loud,Round,Serious,15,40-49,Long,1.83,77,8/06/2020,Dark,62
+Baby cut,60,Tom,Dry,Low,Pear,Hurried,15,5-19,Short,1.7,37,8/06/2020,Light,53
+Panga,80,Ben,Stormy,Loud,Square,Serious,10,50-59,Medium,1.72,79,8/06/2020,Dark,71
+Panga,80,Leo,Sunny,Moderate,Round,Serious,20,50-59,Medium,1.88,78,8/06/2020,Light,70
+Fade,80,Leo,Stormy,Moderate,Heart,Worried,0,50-59,Short,1.88,74,8/06/2020,Light,36
+Fade,80,Leo,Hot,Loud,Triangular,Serious,15,20-29,Medium,1.7,51,8/06/2020,Light,47
+Trim,20,Leo,Dry,Loud,Pear,Relaxed,15,50-59,Medium,1.72,79,8/06/2020,Dark,33
+Baby cut,60,Tom,Dry,Loud,Round,Worried,20,50-59,Short,1.66,76,8/06/2020,Light,70
+Afro,70,Leo,Cold,Moderate,Triangular,Tired,0,50-59,Long,1.57,76,8/06/2020,Light,54
+Afro,70,Ben,Dry,Moderate,Heart,Happy,10,60-69,Long,1.57,84,8/06/2020,Light,51
+Mohawk,80,Leo,Sunny,Low,Heart,Relaxed,0,30-39,Long,1.57,72,8/06/2020,Light,42
+Fade,80,Tom,Hot,Loud,Round,Relaxed,15,30-39,Short,1.72,62,8/06/2020,Light,53
+Trim,20,Tom,Humid,Moderate,Heart,Hurried,15,60-69,Medium,1.7,75,8/06/2020,Light,27
+Panga,80,Ben,Sunny,Loud,Square,Relaxed,0,50-59,Medium,1.57,79,9/06/2020,Light,73
+Trim,20,Tom,Humid,Moderate,Pear,Happy,0,20-29,Short,1.66,52,9/06/2020,Dark,20
+Trim,20,Ben,Sunny,Loud,Pear,Happy,10,50-59,Medium,1.72,80,9/06/2020,Dark,37
+Mohawk,80,Tom,Sunny,Loud,Pear,Hurried,10,5-19,Long,1.65,39,9/06/2020,Light,60
+Fade,80,Tom,Hot,Moderate,Heart,Hurried,10,40-49,Medium,1.88,72,9/06/2020,Light,42
+Baby cut,60,Tom,Hot,Loud,Oval,Serious,15,50-59,Short,1.66,81,9/06/2020,Light,64
+Mohawk,80,Ben,Hot,Moderate,Pear,Serious,0,40-49,Long,1.55,75,9/06/2020,Dark,52
+Baby cut,60,Tom,Windy,Moderate,Round,Serious,0,30-39,Short,1.9,72,9/06/2020,Light,69
+Afro,70,Leo,Cold,Moderate,Triangular,Happy,20,40-49,Long,1.72,71,9/06/2020,Light,59
+Baby cut,60,Leo,Cold,Loud,Round,Hurried,20,40-49,Medium,1.83,69,9/06/2020,Light,52
+Afro,70,Leo,Windy,Loud,Pear,Worried,15,20-29,Long,1.83,52,9/06/2020,Light,56
+Mohawk,80,Ben,Stormy,Low,Pear,Hurried,15,30-39,Long,1.66,67,9/06/2020,Light,59
+Panga,80,Leo,Hot,Loud,Oval,Serious,10,30-39,Long,1.66,64,9/06/2020,Light,78
+Mohawk,80,Leo,Hot,Moderate,Round,Hurried,0,60-69,Long,1.65,81,10/06/2020,Light,44
+Mohawk,80,Ben,Hot,Moderate,Round,Hurried,15,30-39,Long,1.86,72,10/06/2020,Dark,42
+Afro,70,Leo,Humid,Loud,Oval,Relaxed,20,40-49,Long,1.7,68,10/06/2020,Dark,50
+Trim,20,Ben,Hot,Moderate,Square,Serious,15,50-59,Medium,1.7,78,10/06/2020,Dark,26
+Mohawk,80,Ben,Hot,Moderate,Square,Serious,10,20-29,Long,1.57,52,10/06/2020,Light,53
+Fade,80,Ben,Sunny,Low,Pear,Tired,20,50-59,Medium,1.6,82,10/06/2020,Light,38
+Panga,80,Tom,Cold,Low,Triangular,Relaxed,10,50-59,Long,1.86,74,10/06/2020,Dark,72
+Mohawk,80,Leo,Hot,Loud,Oval,Tired,10,50-59,Long,1.88,83,10/06/2020,Dark,47
+Trim,20,Leo,Windy,Moderate,Heart,Relaxed,10,5-19,Long,1.86,36,10/06/2020,Light,25
+Mohawk,80,Ben,Humid,Moderate,Oval,Serious,10,5-19,Long,1.83,31,10/06/2020,Light,45
+Panga,80,Tom,Cold,Moderate,Heart,Hurried,0,30-39,Long,1.83,68,11/06/2020,Dark,85
+Mohawk,80,Tom,Sunny,Moderate,Oval,Relaxed,10,5-19,Long,1.7,31,11/06/2020,Light,56
+Mohawk,80,Ben,Sunny,Low,Pear,Worried,10,60-69,Long,1.57,80,11/06/2020,Dark,46
+Afro,70,Ben,Windy,Loud,Pear,Tired,10,40-49,Long,1.72,72,11/06/2020,Dark,57
+Afro,70,Tom,Sunny,Low,Round,Happy,0,5-19,Long,1.65,36,11/06/2020,Dark,53
+Fade,80,Tom,Sunny,Loud,Heart,Happy,15,60-69,Medium,1.66,80,11/06/2020,Dark,36
+Afro,70,Tom,Windy,Low,Triangular,Tired,10,40-49,Long,1.72,77,11/06/2020,Dark,66
+Baby cut,60,Tom,Cold,Moderate,Round,Relaxed,0,30-39,Short,1.88,68,11/06/2020,Dark,67
+Afro,70,Tom,Sunny,Loud,Square,Hurried,10,40-49,Long,1.5,75,11/06/2020,Light,65
+Afro,70,Tom,Sunny,Low,Round,Hurried,15,60-69,Long,1.83,79,11/06/2020,Dark,58
+Afro,70,Tom,Humid,Low,Oval,Relaxed,10,40-49,Long,1.7,69,11/06/2020,Dark,58
+Bald,50,Leo,Cold,Low,Heart,Hurried,20,60-69,Short,1.55,82,11/06/2020,Light,57
+Trim,20,Leo,Sunny,Loud,Triangular,Hurried,15,30-39,Medium,1.83,63,11/06/2020,Light,35
+Trim,20,Ben,Humid,Loud,Triangular,Relaxed,10,20-29,Short,1.9,59,11/06/2020,Dark,37
+Baby cut,60,Tom,Windy,Moderate,Round,Relaxed,10,60-69,Short,1.66,83,11/06/2020,Dark,54
+Trim,20,Leo,Stormy,Loud,Square,Serious,10,50-59,Short,1.72,81,11/06/2020,Light,34
+Baby cut,60,Ben,Hot,Low,Round,Tired,10,5-19,Medium,1.86,33,12/06/2020,Dark,64
+Afro,70,Ben,Dry,Loud,Round,Hurried,20,5-19,Long,1.65,33,12/06/2020,Light,56
+Fade,80,Tom,Hot,Moderate,Oval,Happy,10,40-49,Medium,1.88,69,12/06/2020,Light,47
+Panga,80,Ben,Dry,Low,Round,Hurried,20,20-29,Long,1.66,53,12/06/2020,Light,81
+Panga,80,Tom,Cold,Moderate,Square,Relaxed,15,60-69,Medium,1.7,82,12/06/2020,Dark,78
+Mohawk,80,Leo,Cold,Loud,Heart,Worried,20,40-49,Long,1.5,69,12/06/2020,Light,46
+Afro,70,Leo,Windy,Loud,Heart,Worried,10,60-69,Long,1.5,81,12/06/2020,Dark,59
+Baby cut,60,Ben,Humid,Loud,Oval,Tired,10,40-49,Medium,1.55,75,12/06/2020,Dark,63
+Panga,80,Tom,Dry,Low,Pear,Happy,15,60-69,Medium,1.55,82,12/06/2020,Light,86
+Bald,50,Ben,Sunny,Low,Oval,Happy,15,50-59,Short,1.57,76,12/06/2020,Dark,56
+Afro,70,Ben,Humid,Low,Square,Happy,0,30-39,Long,1.5,66,12/06/2020,Light,62
+Baby cut,60,Tom,Cold,Moderate,Heart,Tired,20,40-49,Medium,1.66,77,12/06/2020,Dark,56
+Fade,80,Tom,Windy,Moderate,Heart,Happy,20,20-29,Short,1.65,50,12/06/2020,Light,54
+Mohawk,80,Leo,Hot,Low,Oval,Relaxed,15,40-49,Long,1.88,76,12/06/2020,Dark,52
+Panga,80,Leo,Cold,Low,Heart,Serious,15,40-49,Medium,1.6,69,12/06/2020,Light,73
+Fade,80,Ben,Hot,Loud,Round,Serious,20,40-49,Medium,1.83,76,12/06/2020,Dark,47
+Bald,50,Tom,Sunny,Moderate,Triangular,Worried,15,50-59,Short,1.83,73,12/06/2020,Light,53
+Mohawk,80,Leo,Cold,Low,Heart,Serious,15,50-59,Long,1.66,74,13/06/2020,Dark,48
+Baby cut,60,Tom,Humid,Moderate,Triangular,Happy,15,30-39,Short,1.86,64,13/06/2020,Light,58
+Afro,70,Leo,Hot,Low,Square,Serious,0,60-69,Long,1.83,84,13/06/2020,Light,63
+Afro,70,Tom,Windy,Loud,Heart,Relaxed,20,60-69,Long,1.7,79,13/06/2020,Light,46
+Trim,20,Ben,Stormy,Moderate,Square,Tired,20,40-49,Short,1.9,72,13/06/2020,Dark,33
+Bald,50,Ben,Sunny,Loud,Triangular,Tired,0,40-49,Medium,1.6,71,13/06/2020,Dark,50
+Baby cut,60,Ben,Sunny,Loud,Heart,Serious,10,20-29,Medium,1.86,58,13/06/2020,Light,53
+Panga,80,Ben,Humid,Low,Triangular,Tired,0,50-59,Long,1.7,74,13/06/2020,Light,76
+Fade,80,Leo,Dry,Loud,Square,Relaxed,20,30-39,Medium,1.6,67,13/06/2020,Light,38
+Trim,20,Tom,Cold,Low,Oval,Hurried,15,40-49,Medium,1.6,76,13/06/2020,Dark,34
+Fade,80,Ben,Stormy,Low,Triangular,Worried,15,5-19,Short,1.65,38,13/06/2020,Light,42
+Baby cut,60,Leo,Dry,Moderate,Triangular,Hurried,0,60-69,Short,1.55,84,13/06/2020,Light,55
+Baby cut,60,Ben,Windy,Low,Square,Serious,15,40-49,Short,1.83,77,13/06/2020,Dark,67
+Mohawk,80,Leo,Sunny,Low,Pear,Serious,15,20-29,Long,1.5,59,13/06/2020,Light,58
+Panga,80,Leo,Windy,Loud,Square,Relaxed,15,50-59,Long,1.72,77,13/06/2020,Light,71
+Panga,80,Ben,Sunny,Moderate,Square,Hurried,20,30-39,Medium,1.55,68,13/06/2020,Light,87
+Panga,80,Tom,Windy,Loud,Oval,Tired,10,50-59,Medium,1.66,79,14/06/2020,Light,81
+Baby cut,60,Leo,Dry,Moderate,Heart,Hurried,0,5-19,Medium,1.57,29,14/06/2020,Light,55
+Afro,70,Ben,Dry,Moderate,Oval,Relaxed,10,20-29,Long,1.88,53,14/06/2020,Light,61
+Fade,80,Ben,Sunny,Loud,Square,Tired,0,20-29,Short,1.65,56,14/06/2020,Dark,46
+Panga,80,Ben,Windy,Loud,Triangular,Relaxed,15,40-49,Medium,1.9,71,14/06/2020,Dark,89
+Panga,80,Ben,Windy,Low,Oval,Hurried,15,40-49,Long,1.7,69,14/06/2020,Dark,88
+Fade,80,Ben,Cold,Low,Pear,Relaxed,15,5-19,Medium,1.66,35,14/06/2020,Light,37
+Baby cut,60,Ben,Cold,Loud,Square,Serious,20,20-29,Short,1.65,60,14/06/2020,Dark,57
+Mohawk,80,Tom,Sunny,Loud,Pear,Serious,15,20-29,Long,1.6,57,14/06/2020,Dark,45
+Fade,80,Leo,Humid,Loud,Triangular,Hurried,0,50-59,Short,1.6,76,14/06/2020,Light,52
+Mohawk,80,Ben,Cold,Low,Oval,Relaxed,20,40-49,Long,1.6,78,14/06/2020,Dark,55
+Afro,70,Tom,Sunny,Low,Heart,Relaxed,0,60-69,Long,1.88,81,14/06/2020,Dark,60
+Panga,80,Leo,Humid,Loud,Oval,Happy,15,5-19,Medium,1.72,32,14/06/2020,Light,73
+Panga,80,Leo,Cold,Moderate,Round,Hurried,0,30-39,Long,1.55,70,14/06/2020,Dark,83
+Fade,80,Ben,Stormy,Loud,Oval,Serious,15,20-29,Short,1.66,59,14/06/2020,Light,35
+Baby cut,60,Tom,Windy,Moderate,Triangular,Tired,10,5-19,Short,1.88,38,14/06/2020,Dark,66
+Trim,20,Tom,Dry,Loud,Heart,Worried,0,30-39,Short,1.83,69,14/06/2020,Light,36
+Bald,50,Leo,Humid,Moderate,Triangular,Serious,20,40-49,Medium,1.7,77,14/06/2020,Light,48
+Mohawk,80,Ben,Stormy,Loud,Round,Relaxed,0,40-49,Long,1.9,70,15/06/2020,Dark,57
+Fade,80,Tom,Windy,Low,Triangular,Tired,0,60-69,Short,1.86,82,15/06/2020,Light,40
+Baby cut,60,Tom,Dry,Low,Oval,Tired,15,5-19,Short,1.66,30,15/06/2020,Light,56
+Afro,70,Tom,Cold,Low,Heart,Worried,10,40-49,Long,1.6,74,15/06/2020,Light,60
+Afro,70,Leo,Humid,Loud,Triangular,Tired,15,20-29,Long,1.7,57,15/06/2020,Light,54
+Fade,80,Tom,Cold,Moderate,Round,Relaxed,10,20-29,Short,1.55,56,15/06/2020,Dark,49
+Panga,80,Leo,Cold,Loud,Round,Serious,0,5-19,Medium,1.7,35,15/06/2020,Light,72
+Bald,50,Ben,Sunny,Moderate,Round,Happy,20,5-19,Medium,1.5,36,15/06/2020,Dark,45
+Baby cut,60,Leo,Windy,Loud,Oval,Happy,20,30-39,Medium,1.9,71,15/06/2020,Dark,69
+Fade,80,Tom,Stormy,Moderate,Triangular,Happy,0,60-69,Medium,1.86,80,15/06/2020,Light,37
+Panga,80,Tom,Stormy,Loud,Square,Serious,10,50-59,Long,1.83,73,15/06/2020,Light,87
+Bald,50,Tom,Stormy,Loud,Heart,Relaxed,20,20-29,Medium,1.7,52,15/06/2020,Light,52
+Trim,20,Tom,Humid,Loud,Oval,Hurried,15,30-39,Medium,1.6,65,15/06/2020,Light,33
+Fade,80,Leo,Cold,Loud,Round,Worried,15,50-59,Medium,1.88,73,15/06/2020,Light,41
+Fade,80,Ben,Cold,Moderate,Square,Hurried,0,5-19,Short,1.57,29,15/06/2020,Dark,45
+Panga,80,Ben,Stormy,Low,Heart,Tired,10,40-49,Medium,1.72,73,15/06/2020,Dark,73
+Panga,80,Ben,Hot,Moderate,Heart,Serious,20,60-69,Medium,1.6,77,15/06/2020,Dark,75
+Afro,70,Leo,Sunny,Moderate,Round,Worried,0,50-59,Long,1.72,75,15/06/2020,Dark,46
+Bald,50,Leo,Windy,Low,Square,Tired,0,60-69,Short,1.83,77,15/06/2020,Light,49
+Panga,80,Ben,Sunny,Low,Round,Relaxed,15,20-29,Medium,1.88,59,16/06/2020,Light,87
+Panga,80,Leo,Dry,Low,Pear,Tired,10,50-59,Long,1.65,80,16/06/2020,Light,86
+Baby cut,60,Ben,Humid,Low,Square,Hurried,15,50-59,Medium,1.5,80,16/06/2020,Light,61
+Baby cut,60,Leo,Stormy,Low,Round,Hurried,0,5-19,Short,1.57,38,16/06/2020,Dark,67
+Baby cut,60,Leo,Cold,Moderate,Pear,Worried,10,60-69,Medium,1.57,82,16/06/2020,Dark,63
+Trim,20,Leo,Hot,Loud,Round,Tired,10,40-49,Medium,1.86,77,16/06/2020,Dark,29
+Bald,50,Leo,Dry,Low,Pear,Serious,20,50-59,Short,1.65,80,16/06/2020,Light,50
+Trim,20,Tom,Stormy,Low,Square,Serious,10,40-49,Short,1.6,70,16/06/2020,Light,34
+Fade,80,Ben,Hot,Moderate,Triangular,Worried,0,30-39,Medium,1.65,72,16/06/2020,Light,47
+Panga,80,Tom,Windy,Low,Pear,Happy,20,60-69,Medium,1.57,75,16/06/2020,Dark,72
+Panga,80,Leo,Windy,Loud,Round,Hurried,20,30-39,Long,1.83,68,16/06/2020,Light,75
+Trim,20,Tom,Cold,Low,Heart,Serious,15,20-29,Long,1.83,53,16/06/2020,Light,27
+Baby cut,60,Leo,Sunny,Moderate,Heart,Worried,10,40-49,Medium,1.9,78,16/06/2020,Light,64
+Panga,80,Leo,Hot,Low,Pear,Tired,0,40-49,Medium,1.6,69,16/06/2020,Dark,75
+Panga,80,Tom,Humid,Moderate,Oval,Relaxed,10,60-69,Medium,1.72,79,16/06/2020,Light,75
+Panga,80,Leo,Dry,Loud,Triangular,Hurried,15,30-39,Medium,1.72,69,16/06/2020,Light,90
+Afro,70,Tom,Windy,Moderate,Oval,Happy,20,60-69,Long,1.86,76,16/06/2020,Dark,63
+Afro,70,Leo,Humid,Low,Oval,Happy,20,5-19,Long,1.66,36,16/06/2020,Light,53
+Fade,80,Tom,Hot,Low,Pear,Tired,20,50-59,Short,1.6,81,16/06/2020,Light,49
+Mohawk,80,Leo,Sunny,Low,Square,Hurried,15,30-39,Long,1.7,63,17/06/2020,Dark,53
+Baby cut,60,Leo,Dry,Low,Round,Worried,10,50-59,Short,1.83,73,17/06/2020,Dark,57
+Trim,20,Tom,Dry,Loud,Oval,Happy,0,50-59,Medium,1.57,81,17/06/2020,Light,39
+Trim,20,Ben,Hot,Loud,Round,Relaxed,20,5-19,Long,1.83,31,17/06/2020,Light,36
+Afro,70,Tom,Stormy,Moderate,Square,Relaxed,20,30-39,Long,1.7,69,17/06/2020,Dark,61
+Baby cut,60,Tom,Stormy,Moderate,Triangular,Serious,20,50-59,Medium,1.7,83,17/06/2020,Light,53
+Afro,70,Leo,Hot,Moderate,Triangular,Happy,15,60-69,Long,1.9,77,17/06/2020,Dark,48
+Afro,70,Ben,Windy,Low,Heart,Relaxed,10,5-19,Long,1.65,39,17/06/2020,Light,62
+Panga,80,Tom,Stormy,Moderate,Pear,Serious,10,60-69,Medium,1.72,78,17/06/2020,Light,70
+Mohawk,80,Leo,Windy,Loud,Oval,Tired,15,20-29,Long,1.7,59,17/06/2020,Light,58
+Trim,20,Leo,Sunny,Low,Pear,Tired,0,20-29,Short,1.57,54,17/06/2020,Light,23
+Baby cut,60,Leo,Windy,Low,Oval,Serious,10,60-69,Short,1.83,76,17/06/2020,Light,61
+Bald,50,Tom,Stormy,Moderate,Round,Hurried,0,60-69,Short,1.55,79,17/06/2020,Dark,53
+Afro,70,Tom,Humid,Moderate,Pear,Happy,10,40-49,Long,1.88,71,17/06/2020,Light,66
+Fade,80,Tom,Windy,Moderate,Round,Happy,20,30-39,Medium,1.5,71,18/06/2020,Light,40
+Bald,50,Tom,Humid,Low,Oval,Happy,15,50-59,Medium,1.72,74,18/06/2020,Light,55
+Trim,20,Leo,Humid,Loud,Square,Happy,0,30-39,Short,1.57,63,18/06/2020,Dark,33
+Panga,80,Leo,Humid,Loud,Heart,Serious,15,5-19,Long,1.66,33,18/06/2020,Light,84
+Afro,70,Leo,Dry,Loud,Triangular,Serious,10,50-59,Long,1.88,74,18/06/2020,Dark,52
+Baby cut,60,Tom,Dry,Moderate,Heart,Worried,0,5-19,Medium,1.5,32,18/06/2020,Light,70
+Baby cut,60,Leo,Dry,Low,Pear,Happy,0,60-69,Medium,1.88,79,18/06/2020,Dark,61
+Mohawk,80,Leo,Humid,Loud,Round,Happy,15,30-39,Long,1.5,72,18/06/2020,Dark,61
+Mohawk,80,Leo,Hot,Low,Square,Tired,20,50-59,Long,1.5,82,18/06/2020,Dark,44
+Bald,50,Tom,Dry,Low,Oval,Tired,15,60-69,Short,1.65,75,18/06/2020,Light,43
+Bald,50,Leo,Windy,Low,Oval,Hurried,20,60-69,Medium,1.9,79,18/06/2020,Light,59
+Fade,80,Ben,Sunny,Low,Oval,Worried,10,60-69,Short,1.88,76,18/06/2020,Dark,42
+Fade,80,Tom,Dry,Loud,Oval,Hurried,20,20-29,Short,1.83,57,18/06/2020,Light,54
+Afro,70,Tom,Cold,Loud,Oval,Relaxed,15,20-29,Long,1.9,60,18/06/2020,Dark,60
+Baby cut,60,Tom,Stormy,Moderate,Oval,Serious,20,40-49,Medium,1.55,73,19/06/2020,Dark,60
+Bald,50,Ben,Sunny,Moderate,Oval,Serious,10,60-69,Medium,1.57,79,19/06/2020,Dark,58
+Trim,20,Ben,Sunny,Loud,Triangular,Tired,15,40-49,Short,1.57,78,19/06/2020,Dark,30
+Trim,20,Ben,Hot,Loud,Round,Hurried,10,5-19,Long,1.86,32,19/06/2020,Dark,29
+Fade,80,Tom,Cold,Low,Triangular,Serious,20,60-69,Short,1.9,79,19/06/2020,Dark,40
+Panga,80,Tom,Dry,Loud,Triangular,Relaxed,10,30-39,Medium,1.72,62,19/06/2020,Dark,90
+Bald,50,Leo,Stormy,Low,Square,Hurried,15,5-19,Medium,1.86,39,19/06/2020,Dark,57
+Baby cut,60,Leo,Windy,Low,Oval,Worried,15,5-19,Medium,1.65,37,19/06/2020,Light,63
+Trim,20,Leo,Hot,Loud,Heart,Hurried,15,60-69,Short,1.66,81,19/06/2020,Dark,20
+Bald,50,Ben,Windy,Low,Heart,Relaxed,10,50-59,Short,1.72,76,19/06/2020,Dark,42
+Mohawk,80,Ben,Dry,Low,Round,Worried,15,40-49,Long,1.66,69,19/06/2020,Light,44
+Baby cut,60,Tom,Hot,Low,Square,Serious,15,40-49,Short,1.83,74,19/06/2020,Dark,62
+Baby cut,60,Ben,Stormy,Moderate,Heart,Serious,15,60-69,Medium,1.5,75,19/06/2020,Light,59
+Bald,50,Ben,Dry,Moderate,Round,Hurried,20,30-39,Medium,1.5,72,20/06/2020,Dark,44
+Mohawk,80,Ben,Windy,Loud,Round,Happy,10,30-39,Long,1.66,71,20/06/2020,Dark,53
+Bald,50,Tom,Sunny,Moderate,Heart,Serious,0,20-29,Medium,1.83,59,20/06/2020,Dark,47
+Mohawk,80,Tom,Sunny,Moderate,Heart,Hurried,0,40-49,Long,1.83,72,20/06/2020,Dark,58
+Fade,80,Tom,Hot,Loud,Oval,Worried,10,60-69,Medium,1.9,80,20/06/2020,Light,47
+Panga,80,Leo,Stormy,Moderate,Triangular,Serious,20,5-19,Long,1.57,39,20/06/2020,Dark,74
+Trim,20,Tom,Humid,Loud,Oval,Happy,10,50-59,Long,1.72,80,20/06/2020,Light,33
+Afro,70,Ben,Sunny,Loud,Heart,Serious,0,40-49,Long,1.88,75,20/06/2020,Light,56
+Afro,70,Ben,Cold,Low,Triangular,Happy,0,20-29,Long,1.6,52,20/06/2020,Light,57
+Fade,80,Ben,Humid,Moderate,Round,Worried,20,60-69,Medium,1.88,77,20/06/2020,Dark,50
+Mohawk,80,Ben,Sunny,Moderate,Heart,Worried,10,20-29,Long,1.57,59,20/06/2020,Dark,57
+Trim,20,Leo,Sunny,Moderate,Triangular,Serious,15,30-39,Short,1.5,69,20/06/2020,Light,39
+Bald,50,Ben,Cold,Moderate,Heart,Tired,10,50-59,Medium,1.5,82,20/06/2020,Dark,44
+Baby cut,60,Tom,Dry,Loud,Triangular,Serious,0,60-69,Medium,1.72,80,20/06/2020,Light,59
+Mohawk,80,Ben,Sunny,Loud,Oval,Hurried,20,5-19,Long,1.7,31,20/06/2020,Dark,50
+Bald,50,Ben,Stormy,Moderate,Round,Hurried,20,40-49,Short,1.88,73,20/06/2020,Light,55
+Mohawk,80,Leo,Dry,Low,Heart,Relaxed,10,40-49,Long,1.9,73,20/06/2020,Light,46
+Fade,80,Leo,Humid,Loud,Round,Worried,0,20-29,Short,1.9,54,20/06/2020,Dark,52
+Panga,80,Tom,Dry,Moderate,Round,Relaxed,20,5-19,Medium,1.66,36,20/06/2020,Light,77
+Afro,70,Tom,Windy,Low,Oval,Serious,20,50-59,Long,1.7,73,20/06/2020,Light,50
+Mohawk,80,Ben,Cold,Loud,Square,Relaxed,10,60-69,Long,1.66,77,21/06/2020,Dark,54
+Mohawk,80,Ben,Sunny,Loud,Pear,Tired,0,40-49,Long,1.72,72,21/06/2020,Dark,55
+Fade,80,Leo,Stormy,Low,Pear,Tired,15,30-39,Medium,1.72,62,21/06/2020,Dark,42
+Trim,20,Leo,Dry,Moderate,Oval,Tired,15,20-29,Long,1.72,56,21/06/2020,Dark,20
+Afro,70,Ben,Hot,Low,Square,Tired,15,30-39,Long,1.86,65,21/06/2020,Light,64
+Bald,50,Leo,Hot,Loud,Pear,Worried,10,50-59,Short,1.55,75,21/06/2020,Dark,48
+Baby cut,60,Tom,Cold,Low,Oval,Worried,0,5-19,Short,1.83,36,21/06/2020,Light,57
+Fade,80,Ben,Dry,Moderate,Square,Happy,0,50-59,Medium,1.5,73,21/06/2020,Light,34
+Bald,50,Tom,Stormy,Moderate,Square,Happy,10,20-29,Medium,1.72,57,21/06/2020,Light,42
+Trim,20,Ben,Stormy,Moderate,Heart,Happy,15,50-59,Long,1.65,77,21/06/2020,Light,29
+Trim,20,Ben,Sunny,Low,Oval,Worried,15,40-49,Medium,1.9,75,21/06/2020,Light,31
+Panga,80,Ben,Sunny,Low,Triangular,Serious,10,50-59,Long,1.6,77,21/06/2020,Light,88
+Afro,70,Tom,Dry,Moderate,Pear,Happy,20,30-39,Long,1.83,64,21/06/2020,Dark,47
+Bald,50,Leo,Windy,Moderate,Heart,Relaxed,10,40-49,Short,1.88,69,22/06/2020,Dark,59
+Mohawk,80,Leo,Humid,Low,Pear,Happy,0,40-49,Long,1.5,75,22/06/2020,Dark,54
+Panga,80,Leo,Stormy,Low,Round,Hurried,0,30-39,Long,1.72,66,22/06/2020,Dark,86
+Panga,80,Leo,Windy,Moderate,Heart,Relaxed,15,30-39,Medium,1.7,72,22/06/2020,Light,85
+Bald,50,Ben,Windy,Moderate,Triangular,Tired,10,60-69,Short,1.65,78,22/06/2020,Light,60
+Afro,70,Ben,Dry,Loud,Oval,Relaxed,10,50-59,Long,1.66,81,22/06/2020,Light,46
+Panga,80,Leo,Hot,Low,Round,Happy,20,60-69,Medium,1.86,80,22/06/2020,Light,86
+Afro,70,Tom,Cold,Loud,Pear,Tired,10,20-29,Long,1.83,55,22/06/2020,Dark,56
+Fade,80,Leo,Stormy,Moderate,Round,Happy,20,60-69,Medium,1.5,80,22/06/2020,Dark,54
+Fade,80,Tom,Windy,Loud,Heart,Relaxed,0,30-39,Medium,1.6,70,22/06/2020,Dark,49
+Panga,80,Tom,Sunny,Moderate,Heart,Hurried,20,20-29,Medium,1.66,60,22/06/2020,Light,74
+Afro,70,Tom,Sunny,Loud,Oval,Relaxed,20,40-49,Long,1.5,75,22/06/2020,Light,65
+Trim,20,Ben,Stormy,Moderate,Square,Relaxed,20,30-39,Medium,1.9,71,22/06/2020,Dark,31
+Afro,70,Tom,Hot,Moderate,Oval,Hurried,10,30-39,Long,1.66,63,22/06/2020,Light,49
+Bald,50,Ben,Cold,Moderate,Heart,Relaxed,20,30-39,Medium,1.83,72,22/06/2020,Light,60
+Panga,80,Ben,Sunny,Low,Square,Happy,0,20-29,Long,1.5,60,22/06/2020,Light,70
+Trim,20,Leo,Humid,Loud,Heart,Worried,0,5-19,Medium,1.6,39,22/06/2020,Dark,38
+Panga,80,Leo,Hot,Loud,Round,Relaxed,20,5-19,Medium,1.55,35,22/06/2020,Dark,86
+Fade,80,Tom,Stormy,Moderate,Round,Hurried,10,60-69,Short,1.83,85,23/06/2020,Light,39
+Baby cut,60,Ben,Humid,Moderate,Pear,Happy,10,40-49,Medium,1.55,75,23/06/2020,Light,51
+Mohawk,80,Leo,Dry,Moderate,Round,Relaxed,20,20-29,Long,1.66,58,23/06/2020,Dark,45
+Afro,70,Leo,Dry,Low,Heart,Hurried,15,50-59,Long,1.9,76,23/06/2020,Dark,62
+Mohawk,80,Ben,Hot,Moderate,Square,Relaxed,15,40-49,Long,1.88,75,23/06/2020,Light,62
+Mohawk,80,Leo,Hot,Moderate,Oval,Worried,10,40-49,Long,1.66,74,23/06/2020,Dark,43
+Bald,50,Ben,Humid,Low,Round,Serious,0,50-59,Short,1.72,81,23/06/2020,Dark,47
+Bald,50,Tom,Dry,Loud,Round,Hurried,0,40-49,Medium,1.72,77,23/06/2020,Light,44
+Panga,80,Tom,Dry,Loud,Heart,Tired,15,5-19,Long,1.6,35,23/06/2020,Light,77
+Bald,50,Leo,Dry,Loud,Pear,Worried,15,40-49,Medium,1.55,73,23/06/2020,Dark,55
+Baby cut,60,Tom,Windy,Low,Round,Worried,10,30-39,Short,1.6,62,23/06/2020,Light,67
+Fade,80,Tom,Hot,Low,Heart,Hurried,20,50-59,Medium,1.65,79,24/06/2020,Light,39
+Bald,50,Leo,Sunny,Loud,Round,Tired,0,50-59,Short,1.9,77,24/06/2020,Dark,51
+Afro,70,Tom,Sunny,Moderate,Heart,Relaxed,20,30-39,Long,1.9,66,24/06/2020,Dark,66
+Fade,80,Tom,Sunny,Loud,Square,Serious,0,20-29,Short,1.7,59,24/06/2020,Light,54
+Mohawk,80,Ben,Windy,Low,Heart,Relaxed,15,60-69,Long,1.5,77,24/06/2020,Light,43
+Bald,50,Leo,Humid,Low,Oval,Hurried,10,20-29,Short,1.6,59,24/06/2020,Dark,43
+Afro,70,Ben,Dry,Moderate,Oval,Tired,15,5-19,Long,1.83,32,24/06/2020,Dark,54
+Panga,80,Tom,Stormy,Low,Oval,Tired,0,30-39,Medium,1.72,72,24/06/2020,Light,75
+Fade,80,Ben,Stormy,Loud,Square,Serious,20,60-69,Short,1.66,78,24/06/2020,Light,43
+Fade,80,Leo,Humid,Loud,Pear,Happy,15,30-39,Medium,1.65,70,24/06/2020,Dark,44
+Baby cut,60,Tom,Dry,Loud,Heart,Serious,15,20-29,Short,1.83,57,24/06/2020,Light,70
+Trim,20,Leo,Stormy,Low,Oval,Serious,10,20-29,Long,1.9,52,24/06/2020,Dark,23
+Afro,70,Tom,Humid,Loud,Square,Relaxed,10,30-39,Long,1.88,68,24/06/2020,Dark,46
+Baby cut,60,Tom,Sunny,Low,Square,Relaxed,0,60-69,Medium,1.65,76,24/06/2020,Dark,54
+Mohawk,80,Tom,Windy,Loud,Triangular,Tired,0,20-29,Long,1.57,59,24/06/2020,Dark,61
+Bald,50,Leo,Dry,Moderate,Square,Tired,15,40-49,Short,1.6,69,25/06/2020,Light,45
+Fade,80,Leo,Sunny,Moderate,Heart,Serious,15,40-49,Medium,1.88,73,25/06/2020,Light,50
+Afro,70,Ben,Humid,Loud,Triangular,Tired,20,5-19,Long,1.5,38,25/06/2020,Light,49
+Fade,80,Tom,Windy,Loud,Pear,Serious,0,20-29,Medium,1.72,54,25/06/2020,Dark,42
+Afro,70,Tom,Cold,Loud,Square,Happy,0,30-39,Long,1.72,66,25/06/2020,Dark,58
+Trim,20,Leo,Windy,Moderate,Square,Hurried,0,60-69,Long,1.7,82,25/06/2020,Light,29
+Mohawk,80,Ben,Humid,Moderate,Oval,Tired,20,5-19,Long,1.83,35,25/06/2020,Dark,61
+Afro,70,Leo,Humid,Loud,Square,Serious,20,5-19,Long,1.6,37,25/06/2020,Dark,48
+Baby cut,60,Leo,Windy,Low,Square,Relaxed,10,20-29,Short,1.6,50,25/06/2020,Light,55
+Trim,20,Leo,Stormy,Low,Triangular,Hurried,10,40-49,Long,1.6,68,25/06/2020,Dark,35
+Panga,80,Leo,Stormy,Loud,Triangular,Hurried,10,60-69,Medium,1.57,82,25/06/2020,Dark,70
+Bald,50,Ben,Hot,Moderate,Oval,Happy,10,50-59,Medium,1.7,73,26/06/2020,Light,45
+Trim,20,Ben,Stormy,Loud,Oval,Happy,15,5-19,Medium,1.88,30,26/06/2020,Light,24
+Trim,20,Ben,Stormy,Moderate,Round,Serious,0,50-59,Medium,1.7,74,26/06/2020,Light,23
+Trim,20,Leo,Humid,Low,Heart,Happy,0,30-39,Medium,1.6,72,26/06/2020,Light,25
+Panga,80,Ben,Sunny,Moderate,Pear,Happy,20,30-39,Medium,1.65,66,26/06/2020,Light,77
+Bald,50,Leo,Stormy,Low,Triangular,Worried,15,50-59,Short,1.6,73,26/06/2020,Light,55
+Baby cut,60,Tom,Hot,Loud,Heart,Hurried,20,30-39,Medium,1.86,69,26/06/2020,Dark,55
+Bald,50,Leo,Windy,Moderate,Triangular,Hurried,0,5-19,Short,1.6,38,26/06/2020,Light,42
+Bald,50,Leo,Dry,Moderate,Triangular,Worried,0,5-19,Short,1.5,32,26/06/2020,Dark,59
+Panga,80,Tom,Windy,Low,Heart,Tired,15,50-59,Medium,1.83,76,26/06/2020,Light,89
+Trim,20,Leo,Stormy,Low,Square,Tired,20,5-19,Short,1.72,31,26/06/2020,Light,30
+Afro,70,Leo,Windy,Moderate,Triangular,Tired,20,50-59,Long,1.72,76,27/06/2020,Dark,59
+Baby cut,60,Ben,Stormy,Loud,Oval,Serious,10,5-19,Medium,1.5,33,27/06/2020,Dark,57
+Trim,20,Ben,Windy,Loud,Square,Worried,0,60-69,Short,1.86,79,27/06/2020,Light,37
+Bald,50,Ben,Humid,Loud,Round,Happy,20,50-59,Short,1.6,81,27/06/2020,Light,46
+Bald,50,Ben,Sunny,Moderate,Round,Hurried,20,50-59,Medium,1.5,75,27/06/2020,Light,46
+Panga,80,Ben,Dry,Low,Square,Hurried,0,30-39,Long,1.57,69,27/06/2020,Light,75
+Trim,20,Ben,Humid,Low,Pear,Hurried,15,60-69,Medium,1.88,82,27/06/2020,Light,29
+Fade,80,Ben,Cold,Moderate,Heart,Tired,15,40-49,Short,1.55,75,27/06/2020,Light,53
+Mohawk,80,Leo,Cold,Low,Round,Happy,10,30-39,Long,1.86,70,27/06/2020,Light,62
+Trim,20,Tom,Humid,Loud,Square,Serious,20,30-39,Medium,1.72,69,27/06/2020,Dark,23
+Fade,80,Tom,Hot,Moderate,Pear,Hurried,10,40-49,Short,1.65,74,28/06/2020,Light,48
+Panga,80,Ben,Windy,Moderate,Triangular,Worried,10,30-39,Long,1.72,71,28/06/2020,Dark,76
+Panga,80,Tom,Dry,Low,Oval,Worried,10,50-59,Long,1.5,73,28/06/2020,Light,86
+Afro,70,Tom,Sunny,Low,Oval,Serious,10,5-19,Long,1.55,36,28/06/2020,Light,51
+Bald,50,Ben,Hot,Loud,Heart,Serious,15,40-49,Medium,1.72,77,28/06/2020,Dark,52
+Fade,80,Ben,Windy,Loud,Oval,Hurried,15,30-39,Medium,1.66,70,28/06/2020,Dark,36
+Afro,70,Tom,Hot,Moderate,Triangular,Happy,15,30-39,Long,1.7,65,28/06/2020,Dark,65
+Bald,50,Leo,Dry,Moderate,Pear,Hurried,10,5-19,Medium,1.9,33,28/06/2020,Light,47
+Trim,20,Tom,Windy,Low,Round,Serious,15,50-59,Short,1.66,73,28/06/2020,Light,22
+Panga,80,Leo,Humid,Low,Triangular,Happy,15,60-69,Medium,1.55,84,28/06/2020,Dark,70
+Panga,80,Leo,Humid,Loud,Square,Happy,20,30-39,Medium,1.9,70,28/06/2020,Light,85
+Fade,80,Leo,Windy,Moderate,Heart,Happy,10,20-29,Short,1.66,51,28/06/2020,Dark,42
+Fade,80,Tom,Stormy,Moderate,Oval,Worried,20,60-69,Short,1.55,81,28/06/2020,Light,52
+Baby cut,60,Leo,Humid,Low,Square,Worried,15,40-49,Medium,1.72,77,28/06/2020,Light,54
+Bald,50,Leo,Windy,Loud,Heart,Serious,0,40-49,Short,1.57,76,29/06/2020,Dark,56
+Bald,50,Ben,Humid,Loud,Heart,Happy,0,60-69,Medium,1.6,81,29/06/2020,Light,54
+Mohawk,80,Leo,Dry,Moderate,Round,Worried,0,40-49,Long,1.57,69,29/06/2020,Dark,46
+Trim,20,Tom,Hot,Moderate,Square,Tired,10,5-19,Short,1.83,31,29/06/2020,Light,33
+Trim,20,Ben,Humid,Low,Square,Worried,0,50-59,Short,1.55,83,29/06/2020,Light,31
+Fade,80,Tom,Stormy,Loud,Square,Relaxed,15,50-59,Medium,1.6,83,29/06/2020,Dark,35
+Trim,20,Ben,Stormy,Low,Square,Serious,0,40-49,Medium,1.72,74,29/06/2020,Light,22
+Panga,80,Tom,Windy,Low,Square,Tired,0,60-69,Long,1.7,81,29/06/2020,Light,79
+Baby cut,60,Ben,Sunny,Low,Square,Tired,10,20-29,Medium,1.66,60,29/06/2020,Dark,56
+Bald,50,Ben,Hot,Low,Heart,Serious,10,20-29,Medium,1.66,51,29/06/2020,Dark,59
+Bald,50,Tom,Humid,Low,Pear,Worried,20,30-39,Medium,1.57,65,29/06/2020,Light,48
+Bald,50,Leo,Hot,Loud,Pear,Tired,15,30-39,Short,1.9,69,29/06/2020,Light,60
+Fade,80,Leo,Sunny,Low,Heart,Serious,10,30-39,Short,1.88,71,29/06/2020,Light,41
+Bald,50,Ben,Hot,Loud,Square,Hurried,15,20-29,Short,1.65,52,29/06/2020,Light,50
+Trim,20,Ben,Humid,Low,Square,Worried,15,50-59,Short,1.72,81,29/06/2020,Dark,33
+Bald,50,Ben,Cold,Low,Heart,Hurried,10,20-29,Medium,1.83,54,29/06/2020,Light,42
+Fade,80,Ben,Humid,Low,Heart,Tired,15,30-39,Short,1.9,67,30/06/2020,Light,34
+Trim,20,Tom,Hot,Loud,Round,Serious,0,30-39,Medium,1.7,64,30/06/2020,Dark,30
+Mohawk,80,Ben,Sunny,Moderate,Heart,Relaxed,0,40-49,Long,1.6,75,30/06/2020,Light,62
+Panga,80,Tom,Cold,Low,Pear,Relaxed,10,30-39,Medium,1.6,64,30/06/2020,Dark,86
+Afro,70,Ben,Stormy,Loud,Oval,Relaxed,10,5-19,Long,1.83,31,30/06/2020,Dark,54
+Bald,50,Leo,Sunny,Low,Triangular,Worried,20,5-19,Medium,1.5,32,30/06/2020,Light,52
+Bald,50,Leo,Stormy,Low,Heart,Happy,0,60-69,Short,1.6,81,30/06/2020,Light,50
+Panga,80,Tom,Dry,Moderate,Oval,Serious,10,30-39,Long,1.55,63,30/06/2020,Light,76
+Bald,50,Ben,Dry,Low,Square,Happy,20,50-59,Medium,1.57,78,30/06/2020,Light,46
+Mohawk,80,Ben,Sunny,Loud,Pear,Happy,0,5-19,Long,1.72,29,30/06/2020,Dark,59
+Fade,80,Ben,Hot,Loud,Pear,Happy,20,40-49,Short,1.9,71,30/06/2020,Light,35
+Mohawk,80,Ben,Hot,Moderate,Oval,Hurried,15,5-19,Long,1.86,35,30/06/2020,Light,59

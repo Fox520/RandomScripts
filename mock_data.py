@@ -37,14 +37,14 @@ head_shape = ["Triangular", "Round", "Heart", "Oval", "Pear", "Square"]
 customer_reaction = ["Happy", "Worried", "Hurried", "Serious", "Relaxed", "Tired"]
 discount_percent = [0, 10, 15, 20]
 age_groups = {
-    "30-39": 70,
-    "50-59": 80,
-    "20-29": 77,
-    "40-49": 83,
-    "5-19": 60,
-    "60-69": 77,
+    "30-39": 67,
+    "50-59": 78,
+    "20-29": 55,
+    "40-49": 73,
+    "5-19": 34,
+    "60-69": 80,
 }
-heights = [1.5, 1.62, 1.67, 1.6, 1.5, 1.65, 1.66, 1.7, 1.55, 1.62, 1.58, 1.66]
+heights = [1.5, 1.6, 1.86, 1.72, 1.57, 1.65, 1.66, 1.7, 1.55, 1.83, 1.88, 1.9]
 skin_tone = ["Dark", "Light"]
 dates = [
     "1/04/2020",
@@ -182,9 +182,26 @@ with open("out.csv", "w", newline="") as f:
             mass = plus_minus(age_groups[age_key], 5)
             random.seed(os.urandom(random.randint(5, 50)))
             height = random.choice(heights)
-            data = [style_key, price, barber, weather, noise, shape, reaction,disc,age_key, pre_length, height, mass, date, tone, styling_time]
+            data = [
+                style_key,
+                price,
+                barber,
+                weather,
+                noise,
+                shape,
+                reaction,
+                disc,
+                age_key,
+                pre_length,
+                height,
+                mass,
+                date,
+                tone,
+                styling_time,
+            ]
             csv_writer.writerow(data)
             count += 1
             ay += i
 print(count)
-print(ay/count)
+print(ay / count)
+
