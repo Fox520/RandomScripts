@@ -31,7 +31,7 @@ styles = {
     "Afro": [70, 43, ["Long"]],
 }
 barbers = ["Tom", "Ben", "Leo"]
-weather_list = ["Sunny", "Hot", "Cold", "Humid", "Windy", "Stormy", "Dry"]
+weather_list = ["Hot", "Cold", "Moderate"]
 env_noise = ["Loud", "Moderate", "Low"]
 head_shape = ["Triangular", "Round", "Heart", "Oval", "Pear", "Square"]
 customer_reaction = ["Happy", "Worried", "Hurried", "Serious", "Relaxed", "Tired"]
@@ -153,19 +153,45 @@ ay = 0
 with open("out.csv", "w", newline="") as f:
     csv_writer = csv.writer(f)
     csv_writer.writerow(a)
+    counter = 0
     for date in dates:
         random.seed(os.urandom(random.randint(5, 50)))
-        for i in range(random.randint(10, 20)):
+        for i in range(1, 15):  # range(random.randint(10, 20)):
+            counter += 1
+            # print(counter)
             random.seed(os.urandom(random.randint(5, 50)))
             style_key = random.choice(list(styles.keys()))
-            styling_time = plus_minus(styles[style_key][1], 10)
             price = styles[style_key][0]
             random.seed(os.urandom(random.randint(5, 50)))
             pre_length = random.choice(styles[style_key][2])
             random.seed(os.urandom(random.randint(5, 50)))
             barber = random.choice(barbers)
             random.seed(os.urandom(random.randint(5, 50)))
-            weather = random.choice(weather_list)
+            age_key = random.choice(list(age_groups.keys()))
+            # if counter < 150:
+            #     barber = "Tom"
+            if counter < 500:
+                style_key = "Panga"
+                pre_length = "Long"
+                # barber = "Leo"
+                age_key = "20-29"
+            elif counter < 650:
+                style_key = "Bald"
+                pre_length = "Short"
+                # barber = "Ben"
+            elif counter < 850:
+                style_key = "Trim"
+                pre_length = "Short"
+                age_key = "30-39"
+            styling_time = plus_minus(styles[style_key][1], 10)
+
+            if counter < 300:
+                weather = "Cold"
+            elif counter < 650:
+                weather = "Hot"
+            else:
+                weather = "Moderate"
+            # weather = random.choice(weather_list)
             random.seed(os.urandom(random.randint(5, 50)))
             noise = random.choice(env_noise)
             random.seed(os.urandom(random.randint(5, 50)))
@@ -177,7 +203,7 @@ with open("out.csv", "w", newline="") as f:
             random.seed(os.urandom(random.randint(5, 50)))
             tone = random.choice(skin_tone)
             random.seed(os.urandom(random.randint(5, 50)))
-            age_key = random.choice(list(age_groups.keys()))
+
             random.seed(os.urandom(random.randint(5, 50)))
             mass = plus_minus(age_groups[age_key], 5)
             random.seed(os.urandom(random.randint(5, 50)))

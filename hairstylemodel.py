@@ -7,7 +7,7 @@ fig, ax = plt.subplots()
 keys = list(hsn_counts.keys())
 values = list(hsn_counts.values())
 
-ax.scatter(keys, values, label="total count")
+ax.bar(keys, values, label="total count")
 
 for a, b in zip(keys, values):
     plt.text(a, b, str(b))

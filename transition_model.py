@@ -74,8 +74,21 @@ ax.plot(names, trim, label="Trim")
 ax.plot(names, fade, label="Fade")
 ax.plot(names, hawk, label="Mohawk")
 ax.plot(names, afro, label="Afro")
-
-ax.set_ylim([40, 80])
+for a, b in zip(names, panga):
+    plt.text(a, b, str(b))
+for a, b in zip(names, bald):
+    plt.text(a, b, str(b))
+for a, b in zip(names, baby_cut):
+    plt.text(a, b, str(b))
+for a, b in zip(names, trim):
+    plt.text(a, b, str(b))
+for a, b in zip(names, fade):
+    plt.text(a, b, str(b))
+for a, b in zip(names, hawk):
+    plt.text(a, b, str(b))
+for a, b in zip(names, afro):
+    plt.text(a, b, str(b))
+# ax.set_ylim([40, 80])
 ax.set_title("Hairstyle done vs Barber Transition Model")
 ax.legend()
 # plt.tight_layout()

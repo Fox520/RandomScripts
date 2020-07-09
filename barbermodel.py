@@ -12,6 +12,6 @@ ax.bar(keys, values, label="client count")
 for a, b in zip(keys, values):
     plt.text(a, b, str(b))
 ax.set_title("Total Clients per Barber")
-ax.set_ylim(400)
+# ax.set_ylim(400)
 ax.legend()
 plt.show()
